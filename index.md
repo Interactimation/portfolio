@@ -9,4 +9,6 @@ layout: default
 
 Some text
 
+## Head 2
+
 [A link to making](making/)
