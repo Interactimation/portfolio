@@ -3,6 +3,17 @@
   display: none;
 }
 
+/* page background + default text */
+body {
+  background-color: #260d60;
+  color: #ffeec1;
+}
+
+/* link colors */
+a:link    { color: #e78f9a; }
+a:visited { color: #e78f9a; }
+a:hover   { color: #ffffff; }
+
 /* style headlines */
 h1 {
   font-family: "Times New Roman", Times, serif;
