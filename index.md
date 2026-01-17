@@ -21,4 +21,4 @@ A little more
 ###### Head 6
 Last text
 
-[A link to making](making/)
+Some text with [a link to the making](making/) page.
