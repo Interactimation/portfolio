@@ -1,5 +1,5 @@
 ---
-title: Baldridge Portfolio 
+title: Baldridge Portfolioi 
 layout: default
 ---
 
