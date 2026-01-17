@@ -44,8 +44,8 @@ h5 {
 
 .markdown-body h6 {
   font-family: Arial, Helvetica, sans-serif;
-  color: #ffe4e1;
+  color: #ffe4e1 !important;
   font-weight: 600;
   letter-spacing: 0.04em;
-  text-transform: uppercase;
+ 
 }
