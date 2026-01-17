@@ -12,3 +12,5 @@ Some text goes here!
 ## Head 2
 
 [A link to making](making/)
+
+### Head 3
