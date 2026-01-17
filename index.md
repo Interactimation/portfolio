@@ -3,7 +3,7 @@ title: Baldridge Portfolio
 layout: default
 ---
 
-<link rel="stylesheet" href="assets/custom.css">
+<link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
 # Portfolio
 
