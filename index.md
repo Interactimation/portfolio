@@ -5,4 +5,4 @@ layout: default
 
 # Portfolio
 
-Some text!
+Some text
