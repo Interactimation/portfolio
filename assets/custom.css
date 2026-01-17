@@ -41,10 +41,10 @@ h5 {
   color: #687a8d;
 }
 
-h6 {
+.markdown-body h6 {
   font-family: Arial, Helvetica, sans-serif;
   color: #ffe4e1;
   font-weight: 600;
   letter-spacing: 0.04em;
-  text-transform: uppercase;
+
 }
