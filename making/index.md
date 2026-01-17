@@ -1,5 +1,5 @@
 ---
-title: Making 
+title: Baldridge Portfolio 
 layout: default
 ---
 
