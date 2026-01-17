@@ -17,10 +17,26 @@ a:hover   { color: #a5b1bd; }
 /* style headlines */
 h1 {
   font-family: "Times New Roman", Times, serif;
-  color: #6b93bb;
+  color: #839bb3;
 }
 
 h2 {
   font-family: "Times New Roman", Times, serif;
-  color: #4f85bc;
+  color:#7c93a9;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  color: #758ba0;
+}
+
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  color: #6e8296
+  ;
+}
+
+h5 {
+  font-family: "Times New Roman", Times, serif;
+  color: #687a8d;
 }
