@@ -18,7 +18,7 @@ More
 Still more
 ##### Head 5
 A little more
-###### Head 6
+###### Head 6 here
 Some text with [a link to the making](making/) page.
 
 here I embed [another link](https://www.w3schools.com/) to someplace else.
