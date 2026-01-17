@@ -7,7 +7,7 @@ layout: default
 
 # Portfolio
 
-Some text
+Some text goes here
 
 ## Head 2
 
