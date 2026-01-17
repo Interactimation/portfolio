@@ -19,6 +19,4 @@ Still more
 ##### Head 5
 A little more
 ###### Head 6
-Last text
-
 Some text with [a link to the making](making/) page.
