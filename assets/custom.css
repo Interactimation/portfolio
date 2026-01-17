@@ -4,7 +4,7 @@
 }
 
 /* page background + default text */
-body {
+.markdown-body {
   background-color: #1B1B1B;
   color: #8aa3bc;
 }
