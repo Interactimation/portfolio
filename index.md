@@ -13,4 +13,4 @@ Some text goes here!
 
 [A link to making](making/)
 
-### Head 3
+### Head 3 is here
