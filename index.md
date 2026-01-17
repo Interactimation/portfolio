@@ -21,4 +21,4 @@ A little more
 ###### Head 6
 Some text with [a link to the making](making/) page.
 
-[another link](https://www.w3schools.com/)
+here I embed [another link](https://www.w3schools.com/) to someplace else.
