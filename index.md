@@ -9,4 +9,4 @@ layout: default
 
 Some text
 
-[A link to making](/making/)
+[A link to making](making/)
