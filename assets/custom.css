@@ -5,14 +5,14 @@
 
 /* page background + default text */
 body {
-  background-color: #260d60;
-  color: #ffeec1;
+  background-color: #1B1B1B;
+  color: #8aa3bc;
 }
 
 /* link colors */
-a:link    { color: #e78f9a; }
-a:visited { color: #e78f9a; }
-a:hover   { color: #ffffff; }
+a:link    { color: #8ab2bc; }
+a:visited { color: #938abc; }
+a:hover   { color: #a5b1bd; }
 
 /* style headlines */
 h1 {
