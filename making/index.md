@@ -1,5 +1,5 @@
 ---
-title: Making | 2026 
+title: Making 
 layout: default
 ---
 
