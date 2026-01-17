@@ -1,5 +1,9 @@
-.site-title { display: none !important; }
+/* hide auto-injected site title link */
+.markdown-body > h1 > a[href*="github.io/portfolio"] {
+  display: none;
+}
 
+/* style headlines */
 h1 {
   font-family: "Times New Roman", Times, serif;
   color: lightskyblue;
