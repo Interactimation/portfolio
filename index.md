@@ -8,3 +8,5 @@ layout: default
 # Portfolio
 
 Some text
+
+[A link to making](/making/)
