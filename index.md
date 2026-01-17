@@ -10,7 +10,15 @@ layout: default
 Some text goes here!
 
 ## Head 2
+More text
+
+### Head 3
+More
+#### Head 4
+Still more
+##### Head 5
+A little more
+###### Head 6
+Last text
 
 [A link to making](making/)
-
-### Head 3...
