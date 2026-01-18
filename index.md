@@ -6,7 +6,7 @@ layout: default
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
 <div class="banner">
- 
+ # TEXT
  
 </div>
 
