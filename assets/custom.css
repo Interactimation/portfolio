@@ -73,7 +73,6 @@ h5 {
 /* always 2x2 grid, fluid, centered */
 .grid-2x2 {
   --card-w: 25%;
-  --card-h: calc(var(--card-w) * 1.4); /* 3.5 / 2.5 */
 
   display: grid;
   grid-template-columns: repeat(2, var(--card-w));
@@ -82,8 +81,15 @@ h5 {
 
   width: 100%;
   justify-content: center;
-  margin: 0 auto 10em auto;
-  margin: 0 auto;
+  margin: 0 auto 4em auto;
+
+  /* keep each card at 2.5x3.5 ratio */
+.grid-2x2 a {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2.5 / 3.5;
+}
+
 }
 
 .grid-2x2 a,
