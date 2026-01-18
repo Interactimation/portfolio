@@ -72,7 +72,7 @@ h5 {
 
 /* always 2x2 grid, fluid, centered */
 .grid-2x2 {
-  --card-w: 15%;
+  --card-w: 25%;
   --card-h: calc(var(--card-w) * 1.4); /* 3.5 / 2.5 */
 
   display: grid;
