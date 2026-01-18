@@ -15,40 +15,36 @@ a:visited { color: #938abc; }
 a:hover   { color: #8abcbb; }
 a { text-decoration: underline; }
 
-/* style headlines */
+/* style headlines and text */
 
+.markdown-body {
+  font-size: 110%;
+}
+
+/* headings 1–5 share font */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* kill underline rules on h1/h2 */
 .markdown-body h1,
 .markdown-body h2 {
   border-bottom: none;
   padding-bottom: 0;
 }
 
-h1 {
-  font-family: "Times New Roman", Times, serif;
-  color: #839bb3;
-}
+/* per-level colors */
+.markdown-body h1 { color: #839bb3; }
+.markdown-body h2 { color: #7c93a9; }
+.markdown-body h3 { color: #758ba0; }
+.markdown-body h4 { color: #6e8296; }
+.markdown-body h5 { color: #687a8d; }
 
-h2 {
-  font-family: "Times New Roman", Times, serif;
-  color:#7c93a9;
-}
-
-h3 {
-  font-family: "Times New Roman", Times, serif;
-  color: #758ba0;
-}
-
-h4 {
-  font-family: "Times New Roman", Times, serif;
-  color: #6e8296
-  ;
-}
-
-h5 {
-  font-family: "Times New Roman", Times, serif;
-  color: #687a8d;
-}
-
+/* h6 as label */
 .markdown-body h6 {
   font-family: Arial, Helvetica, sans-serif;
   color: #ffe4e1 !important;
