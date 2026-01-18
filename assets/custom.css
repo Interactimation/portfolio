@@ -72,7 +72,7 @@ h5 {
 
 /* always 2x2 grid, fluid, centered */
 .grid-2x2 {
-  --card-w: 38%;
+  --card-w: 15%;
   --card-h: calc(var(--card-w) * 1.4); /* 3.5 / 2.5 */
 
   display: grid;
@@ -94,7 +94,7 @@ h5 {
 
 .grid-2x2 img {
   object-fit: cover;
-  border-radius: 0.8em;
+  border-radius: 1em;
 }
 
 
