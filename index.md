@@ -8,10 +8,22 @@ layout: default
 # Portfolio — Don Mark Baldridge, 2026
 
 <div class="grid-2x2">
-  <a href="making/"><img src="pix/makeCard.png" alt="Making"></a>
-  <a href="writing/"><img src="pix/writeCard.png" alt="Writing"></a>
-  <a href="teaching/"><img src="pix/teachCard.png" alt="Teaching"></a>
-  <a href="demos/"><img src="pix/performCard.png" alt="Performance"></a>
+  <a href="{{ "/making/" | relative_url }}">
+  <img src="{{ "/pix/makeCard.png" | relative_url }}" alt="making">
+</a>
+
+  <a href="{{ "/writing/" | relative_url }}">
+  <img src="{{ "/pix/writeCard.png" | relative_url }}" alt="writing">
+</a>
+
+  <a href="{{ "/performing/" | relative_url }}">
+  <img src="{{ "/pix/performCard.png" | relative_url }}" alt="performing">
+</a>
+
+  <a href="{{ "/teaching/" | relative_url }}">
+  <img src="{{ "/pix/teachCard.png" | relative_url }}" alt="teaching">
+</a>
+
 </div>
 
 
