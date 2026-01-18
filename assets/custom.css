@@ -27,6 +27,7 @@ a { text-decoration: underline; }
 .markdown-body h3,
 .markdown-body h4,
 .markdown-body h5 {
+  font-size: 120%;
   font-family: "Times New Roman", Times, serif;
 }
 
