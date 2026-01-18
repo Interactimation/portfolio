@@ -53,6 +53,13 @@ a { text-decoration: underline; }
   text-transform: uppercase;
 }
 
+.markdown-body h6 a,
+.markdown-body h6 a:hover,
+.markdown-body h6 a:visited {
+  color: #ffe4e1;
+}
+
+
 
 /* ——————————————— */
 /* main page banner and image grid */
