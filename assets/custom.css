@@ -78,7 +78,7 @@ h5 {
   display: grid;
   grid-template-columns: repeat(2, var(--card-w));
   grid-template-rows: repeat(2, var(--card-h));
-  gap: 1em;
+  gap: 3em;
 
   width: 100%;
   justify-content: center;
