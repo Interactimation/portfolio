@@ -5,7 +5,7 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
-# Writing
+# Baldridge—Writing
 
 
 <div class="card-layout">
@@ -19,7 +19,7 @@ layout: default
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="performing">
 
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="teaching">
-  
+
 </div>
 
 
