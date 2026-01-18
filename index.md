@@ -5,10 +5,9 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
-<link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
 <div class="banner">
-  <h1>Baldridge Portfolio</h1>
+ 
   <p>Short banner text.</p>
 </div>
 
