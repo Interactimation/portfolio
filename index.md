@@ -5,10 +5,7 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
-<div class="banner">
- # TEXT
- 
-</div>
+# Portfolio — Don Mark Baldridge, 2026
 
 <div class="grid-2x2">
   <a href="making/"><img src="pix/makeCard.png" alt="Making"></a>
@@ -18,9 +15,9 @@ layout: default
 </div>
 
 
-# Portfolio — Don Mark Baldridge, 2026
 
-Some text goes here!
+
+
 
 ## Head 2
 More text
