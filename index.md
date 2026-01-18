@@ -5,10 +5,9 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
-
 <div class="banner">
  
-  <p>Short banner text.</p>
+ 
 </div>
 
 <div class="grid-2x2">
@@ -19,7 +18,7 @@ layout: default
 </div>
 
 
-# Portfolio
+# Portfolio — Don Mark Baldridge, 2026
 
 Some text goes here!
 
