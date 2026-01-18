@@ -1,5 +1,5 @@
 ---
-title: Making
+title: Teaching
 layout: default
 ---
 
