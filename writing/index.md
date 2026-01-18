@@ -8,17 +8,24 @@ layout: default
 # Baldridge—Writing
 
 
+
 <div class="card-layout">
 
   <a href="{{ "/writing/" | relative_url }}">
   <img src="{{ "/pix/writeCard.png" | relative_url }}" alt="writing">
 </a>
 
+  <a href="{{ "/making/" | relative_url }}">
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="making">
+</a>
 
+  <a href="{{ "/performing/" | relative_url }}">
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="performing">
+</a>
 
+  <a href="{{ "/teaching/" | relative_url }}">
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="teaching">
+</a>
 
 </div>
 

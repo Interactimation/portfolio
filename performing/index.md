@@ -7,17 +7,24 @@ layout: default
 
 # Performing
 
+
 <div class="card-layout">
 
-  <img src="{{ "/pix/emptyCard.png" | relative_url }}" alt="writing">
+  <a href="{{ "/writing/" | relative_url }}">
+  <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="writing">
+</a>
 
-  <img src="{{ "/pix/emptyCard.png" | relative_url }}" alt="making">
+  <a href="{{ "/making/" | relative_url }}">
+  <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="making">
+</a>
 
   <a href="{{ "/performing/" | relative_url }}">
   <img src="{{ "/pix/performCard.png" | relative_url }}" alt="performing">
 </a>
 
+  <a href="{{ "/teaching/" | relative_url }}">
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="teaching">
+</a>
 
 </div>
 
