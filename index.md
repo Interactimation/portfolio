@@ -31,6 +31,7 @@ layout: default
 
 
 use #9a6a3a (burnt orange)
+#8c6b3f (amber))
 
 
 
