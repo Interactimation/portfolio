@@ -7,11 +7,13 @@ layout: default
 
 # Writing
 
+
+<div class="card-layout">
+
   <a href="{{ "/writing/" | relative_url }}">
   <img src="{{ "/pix/writeCard.png" | relative_url }}" alt="writing">
 </a>
 
-<div class="grid-2x2">
   <a href="{{ "/making/" | relative_url }}">
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="making">
 </a>

@@ -76,7 +76,7 @@ a { text-decoration: underline; }
 */
 
 /* card row, centered, fluid */
-.grid-2x2 {
+.card-layout {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -85,7 +85,7 @@ a { text-decoration: underline; }
 }
 
 /* each card keeps 2.5x3.5 ratio and resizes */
-.grid-2x2 a {
+.card-layout a {
   display: block;
   width: 18%;
   min-width: 8em;
@@ -93,7 +93,7 @@ a { text-decoration: underline; }
   aspect-ratio: 2.5 / 3.5;
 }
 
-.grid-2x2 img {
+.card-layout img {
   width: 100%;
   height: 100%;
   display: block;
