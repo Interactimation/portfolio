@@ -67,23 +67,21 @@ a { text-decoration: underline; }
 }
 */
 
-/* always 2x2 grid, fluid, centered */
+/* card row, centered, fluid */
 .grid-2x2 {
-  --card-w: 15%;
-
-  display: grid;
-  grid-template-columns: repeat(2, var(--card-w));
-  gap: 3em;
-
-  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 1.5em;
   margin: 0 auto 4em auto;
 }
 
-/* keep each card at 2.5x3.5 ratio */
+/* each card keeps 2.5x3.5 ratio and resizes */
 .grid-2x2 a {
   display: block;
-  width: 100%;
+  width: 18%;
+  min-width: 8em;
+  max-width: 12em;
   aspect-ratio: 2.5 / 3.5;
 }
 
@@ -94,5 +92,4 @@ a { text-decoration: underline; }
   object-fit: cover;
   border-radius: 0.8em;
 }
-
 
