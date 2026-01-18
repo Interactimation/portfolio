@@ -62,7 +62,7 @@ a { text-decoration: underline; }
 
 
 /* ——————————————— */
-/* main page banner and image grid */
+/* main page banner and image row */
 
 /* full-width banner */
 /*
@@ -80,7 +80,7 @@ a { text-decoration: underline; }
   flex-wrap: wrap;
   justify-content: center;
   gap: 1.5em;
-  margin: 0 auto 4em auto;
+  margin: 2em auto 4em auto;
 }
 
 /* each card keeps 2.5x3.5 ratio and resizes */
