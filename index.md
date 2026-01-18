@@ -1,11 +1,11 @@
 ---
-title: Baldridge Portfolio 
+title: Portfolio 
 layout: default
 ---
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
-# Portfolio — Don Mark Baldridge, 2026
+# Portfolio — Baldridge — 2026
 
 
 
