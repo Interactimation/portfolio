@@ -1,5 +1,5 @@
 ---
-title: Baldridge Portfolio 
+title: Don Mark Baldridge Portfolio 
 layout: default
 ---
 
