@@ -7,8 +7,6 @@ layout: default
 
 # Baldridge—Writing
 
-
-
 <div class="card-layout">
 
   <a href="{{ "/writing/" | relative_url }}">
