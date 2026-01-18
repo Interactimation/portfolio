@@ -7,8 +7,6 @@ layout: default
 
 # Portfolio — Baldridge — 2026
 
-
-
 <div class="card-layout">
 
   <a href="{{ "/writing/" | relative_url }}">
