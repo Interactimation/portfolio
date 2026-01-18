@@ -43,4 +43,4 @@ A little more
 ###### Head 6
 Some text with [a link to the making](making/) page.
 
-here I embed [another link](https://www.w3schools.com/) to someplace else.
+here I embed <a href="https://www.w3schools.com/" target="_blank" rel="noopener">another link</a> to someplace else.
