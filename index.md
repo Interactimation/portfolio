@@ -5,6 +5,21 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
+<link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
+
+<div class="banner">
+  <h1>Baldridge Portfolio</h1>
+  <p>Short banner text.</p>
+</div>
+
+<div class="grid-2x2">
+  <a href="making/"><img src="pix/makeCard.png" alt="Making"></a>
+  <a href="writing/"><img src="pix/writeCard.png" alt="Writing"></a>
+  <a href="teaching/"><img src="pix/teachCard.png" alt="Teaching"></a>
+  <a href="demos/"><img src="pix/performCard.png" alt="Performance"></a>
+</div>
+
+
 # Portfolio
 
 Some text goes here!
