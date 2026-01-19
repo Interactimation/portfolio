@@ -5,7 +5,7 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
-# Portfolio — Baldridge — 2026
+# Portfolio—Baldridge—2026
 
 <div class="card-layout">
 
