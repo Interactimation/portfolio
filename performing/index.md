@@ -18,7 +18,7 @@ layout: default
 </a>
 
   <a href="{{ "/performing/" | relative_url }}">
-  <img src="{{ "/pix/performCard.png" | relative_url }}" alt="performing">
+  <img src="{{ "/pix/performCard.gif" | relative_url }}" alt="performing">
 </a>
 
   <a href="{{ "/teaching/" | relative_url }}">

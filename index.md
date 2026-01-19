@@ -18,7 +18,7 @@ layout: default
 </a>
 
   <a href="{{ "/performing/" | relative_url }}">
-  <img src="{{ "/pix/performCard.png" | relative_url }}" alt="performing">
+  <img src="{{ "/pix/performCard.jpg" | relative_url }}" alt="performing">
 </a>
 
   <a href="{{ "/teaching/" | relative_url }}">
@@ -28,8 +28,8 @@ layout: default
 </div>
 
 
-use #9a6a3a (burnt orange)
-#8c6b3f (amber))
+use #c46f19 (burnt orange)
+#e8ad5e (amber))
 
 
 
