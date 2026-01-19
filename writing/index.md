@@ -10,15 +10,15 @@ layout: default
 <div class="card-layout">
 
   <a href="{{ "/writing/" | relative_url }}">
-  <img src="{{ "/pix/writeCard.png" | relative_url }}" alt="writing">
+  <img src="{{ "/pix/writeCard.gif" | relative_url }}" alt="writing">
 </a>
 
   <a href="{{ "/making/" | relative_url }}">
-  <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="making">
+  <img src="{{ "/pix/makeCard.jpg" | relative_url }}" alt="making">
 </a>
 
   <a href="{{ "/performing/" | relative_url }}">
-  <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="performing">
+  <img src="{{ "/pix/performCard.jpg" | relative_url }}" alt="performing">
 </a>
 
   <a href="{{ "/teaching/" | relative_url }}">
