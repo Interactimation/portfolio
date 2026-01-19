@@ -26,12 +26,18 @@ layout: default
 </a>
 
 </div>
-
-
-use #c46f19 (burnt orange)
-#e8ad5e (amber))
-
-
+<!--
+Page Colors
+background-color: #1B1B1B;
+text color: #8aa3bc;
+Card Colors
+#e8ad5e (amber)
+#c46f19 (burnt orange)
+card text: Attic Antique
+color: #a8334c
+drop: 1px L 1px D
+color: #1B1B1B
+-->
 
 ## Head 2
 More text
