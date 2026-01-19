@@ -24,8 +24,8 @@ layout: default
   <a href="{{ "/teaching/" | relative_url }}">
   <img src="{{ "/pix/teachCard.png" | relative_url }}" alt="teaching">
 </a>
-
 </div>
+
 <!--
 Page Colors
 background-color: #1B1B1B;

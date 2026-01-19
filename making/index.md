@@ -24,7 +24,6 @@ layout: default
   <a href="{{ "/teaching/" | relative_url }}">
   <img src="{{ "/pix/blankCard.jpg" | relative_url }}" alt="teaching">
 </a>
-
 </div>
 
 ###### [home]({{ "/" | relative_url }})
