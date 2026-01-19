@@ -5,6 +5,8 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
+# Making
+
 <div class="card-layout">
 
   <a href="{{ "/writing/" | relative_url }}">
@@ -26,3 +28,5 @@ layout: default
 </div>
 
 ###### [home]({{ "/" | relative_url }})
+
+## Head2

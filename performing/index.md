@@ -28,3 +28,5 @@ layout: default
 </div>
 
 ###### [home]({{ "/" | relative_url }})
+
+## Head 2
