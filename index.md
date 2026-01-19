@@ -14,7 +14,7 @@ layout: default
 </a>
 
   <a href="{{ "/making/" | relative_url }}">
-  <img src="{{ "/pix/makeCard.png" | relative_url }}" alt="making">
+  <img src="{{ "/pix/makeCard.jpg" | relative_url }}" alt="making">
 </a>
 
   <a href="{{ "/performing/" | relative_url }}">
