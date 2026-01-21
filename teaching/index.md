@@ -22,8 +22,10 @@ layout: default
 </a>
 
   <a href="{{ "/teaching/" | relative_url }}">
-  <img src="{{ ""/pix/teachCard.png" | relative_url }}" alt="teaching">
+  <img src="{{ ""/pix/teachCard.png" | relative_url }" alt="teaching">
 </a>
 </div>
 
 ###### [home]({{ "/" | relative_url }})
+
+## Head 2
