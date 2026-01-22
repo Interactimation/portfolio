@@ -86,7 +86,7 @@ a { text-decoration: underline; }
   flex-wrap: wrap;
   justify-content: center;
   gap: 1.5em;
-  margin: 2em auto 4em auto;
+  margin: 2em auto 3em auto;
 }
 
 /* each card keeps 2.5x3.5 ratio and resizes */
