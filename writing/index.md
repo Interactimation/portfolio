@@ -30,4 +30,7 @@ layout: default
 
 ## Playwright ia a word, like wheelwright, shipwright
 
-My very first teaching gig, outside of Sunday school etc., came in my early 20s at Johns Hopkins' Center for Talented Youth or CTY.   
+My very first teaching gig —outside Sunday, that kind of thing— came in my early 20s at Johns Hopkins' Center for Talented Youth, or CTY. There I served as _teaching assistant_ in Playwriting and the Essay form, and got to do solo "units" in each. To date, my favorite gig. 
+
+I'd already _devised_ some theatre at York College, cutting up other, very much under copyright works, collaging together new stories 
+
