@@ -28,4 +28,6 @@ layout: default
 
 ###### [home]({{ "/" | relative_url }})
 
-## Playwright 
+## Playwright ia a word, like wheelwright, shipwright
+
+My very first teaching gig, outside of Sunday school etc., came in my early 20s at Johns Hopkins' Center for Talented Youth or CTY.   
