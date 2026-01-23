@@ -43,8 +43,6 @@ a { text-decoration: underline; }
   padding-bottom: 0;
 }
 
-/* <b> is bigger and different color */
-
 /* per-level colors */
 .markdown-body h1 { color: #839bb3; }
 .markdown-body h2 { color: #7c93a9; }
@@ -52,9 +50,18 @@ a { text-decoration: underline; }
 .markdown-body h4 { color: #6e8296; }
 .markdown-body h5 { color: #687a8d; }
 
+/* <b> is bigger and different color */
+
 .markdown-body strong {
   font-size: 110%;
   color: #839bb3;
+}
+
+/* <hr> is thinner and different color */
+
+.markdown-body hr {
+  border: none;
+  border-top: 0.5px solid #839bb3;
 }
 
 /* h6 as label */
