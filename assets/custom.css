@@ -54,14 +54,15 @@ a { text-decoration: underline; }
 
 .markdown-body strong {
   font-size: 110%;
-  color: #777777;
+  color: #839bb3;
 }
 
 /* <hr> is thinner and different color */
 
 .markdown-body hr {
+  height: 0.3px;
+  background-color: #FF0000;
   border: none;
-  border-top: 0.3px solid #777777;
 }
 
 /* h6 as label */
