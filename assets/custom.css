@@ -43,12 +43,19 @@ a { text-decoration: underline; }
   padding-bottom: 0;
 }
 
+/* <b> is bigger and different color */
+
 /* per-level colors */
 .markdown-body h1 { color: #839bb3; }
 .markdown-body h2 { color: #7c93a9; }
 .markdown-body h3 { color: #758ba0; }
 .markdown-body h4 { color: #6e8296; }
 .markdown-body h5 { color: #687a8d; }
+
+.markdown-body strong {
+  font-size: 110%;
+  color: #839bb3;
+}
 
 /* h6 as label */
 .markdown-body h6 {

@@ -7,6 +7,8 @@ layout: default
 
 # Baldridge—Writing
 
+------
+
 <div class="card-layout">
 
   <a href="{{ "/writing/" | relative_url }}">
@@ -28,9 +30,11 @@ layout: default
 
 ###### [home]({{ "/" | relative_url }})
 
-## Playwright is a word, like wheelwright, shipwright
+## **Playwright is a word,** like wheelwright, shipwright
 
-My very first teaching gig —outside Sunday School, that kind of thing— came in my early 20s at Johns Hopkins' Center for Talented Youth, or CTY. There I served as _teaching assistant_ in Playwriting and the Essay form, and got to do solo "units" in each. To date, my favorite gig. 
+My very first teaching gig —outside Sunday School, that kind of thing— came in my early 20s at Johns Hopkins' Center for Talented Youth, or CTY. There I served as _teaching assistant_ in Playwriting and the Essay form, and got to do solo "units" in each. To date, my favorite gig.
+
+### **By then I'd already toured** the country in a sketch comedy troupe.
 
 ## Producer, Production, Product
 
