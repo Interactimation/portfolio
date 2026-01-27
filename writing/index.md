@@ -38,7 +38,7 @@ My very first teaching gig —outside Sunday School, that kind of thing— came 
 
 _A Going Concern_ targeted youth camps, clubs, churches and whatnot. We wrote our own material, traveled thousands of miles a week, slept in a van, ate fast food, crisscrossed the nation. In the Rockies, on first crossing the continental divide, I jumped out: _Never peed in the Pacific!_ I shouted, before noticing my urine was bright orange. It's amazing any of us lived. Need I say, it's all a bit of a blur?
 
-## **Proctor of Performance OR:**, a band is like a marriage
+## **Proctor of Performance OR:** a band is like a marriage
 
 For more than fifteen years with performance "heptet" HOWLOOSEANATION I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta _The Long Count_, which premiered at the Montreal Fringe in 2007, based on the (then) coming end of the Mayan Calendar: _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._ Which, of course, is now clearly happening!  
 
