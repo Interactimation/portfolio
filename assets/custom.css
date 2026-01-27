@@ -53,7 +53,7 @@ a { text-decoration: underline; }
 /* <b> is bigger and different color */
 
 .markdown-body strong {
-  font-size: 110%;
+  font-size: 105%;
   color: #a1bedc;
 }
 
