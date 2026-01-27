@@ -30,14 +30,23 @@ layout: default
 
 ###### [home]({{ "/" | relative_url }})
 
-## **Playwright is a word,** like wheelwright, shipwright
+## **Playwright is a Word,** like wheelwright, shipwright
 
-My very first teaching gig —outside Sunday School, that kind of thing— came in my early 20s at Johns Hopkins' Center for Talented Youth, or CTY. There I served as _teaching assistant_ in Playwriting and the Essay form, and got to do solo "units" in each. To date, my favorite gig.
+My very first teaching gig —outside Sunday School, that kind of thing— came in my early 20s at Johns Hopkins' Center for Talented Youth, or CTY. There I served as Teaching Assistant in _Playwriting_, which I'd studied at Texas Tech Universit, and _The Essay_ of which I knew nothing beyond having read Montaigne. Nevertheless, I got to do solo "units" in each. To date, one of my favorite gigs.
 
-### **By then I'd already toured** the country in a sketch comedy troupe.
+## **By then I'd Already Toured** with a sketch comedy troupe
 
-## Producer, Production, Product
+_A Going Concern_ targeted youth camps, clubs, churches and whatnot. We wrote our own material, traveled thousands of miles a week, slept in a van, ate fast food, crisscrossed the nation. In the Rockies, on first crossing the continental divide, I jumped out: _Never peed in the Pacific!_ I shouted, before noticing my urine was bright orange. It's amazing any of us lived. Need I say, it's all a bit of a blur?
 
+## **Proctor of Performance OR:**, a band is like a marriage
+
+For more than fifteen years with performance "heptet" HOWLOOSEANATION I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta _The Long Count_, which premiered at the Montreal Fringe in 2007, based on the (then) coming end of the Mayan Calendar: _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._ Which, of course, is now clearly happening!  
+
+## **Lame Claim to Fame** my time in TV-Land 
+
+As a Producer for MeTV in Chicago —then, a little mom-and-pop joint— I created interactives, promotions, performed voice-overs, retroscripting "classic" TV shows into new jokes, deconstructed narratives. It's the low-power station with the largest audience: cunningly placing its antenna atop the Hancock building to reach all Chicagoland. Later, licensing to cable took it nationwide. That's right: I know Svengoolie!
+
+## **Producer, Production, Product,** that inevitable declension
 
 
 
