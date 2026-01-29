@@ -5,7 +5,7 @@ layout: default
 
 <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
-# Baldridge—Teaching
+# **Baldridge—Teaching:**
 
 <div class="card-layout">
 
