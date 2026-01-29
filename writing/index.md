@@ -56,7 +56,7 @@ Which, of course, is now _clearly occurring_!
 <br />
 
 ## **Journeyman Journalist —** my decade at the DN 
-During those same years (I only lived in Linocln for 12 of these) I became sort of _world famous in Lincoln, Nebraska_— a line which has gotten laughs as far away as Seoul, Korea. When I found out the rag _paid_ I was in the office like a shot. The Johnny Carson black box was brand new in those days and brought in a ton of experimental dance. "Who wants to be the _dance writer_?" was a question I could only answer with, _Yo._ 
+During those same years I became sort of _world famous in Lincoln, Nebraska_— a line which has gotten laughs as far away as Seoul, Korea. When I found out the rag _paid_ I was in the office like a shot. The Johnny Carson black box was brand new in those days and brought in a ton of experimental dance. "Who wants to be the _dance writer_?" was a question I could only answer with, _Yo._ 
 
 By the end of the decade (I worked for a living, y'all, no nepo baby, me!) I'd been a reporter, section editor, I'd  drawn op-ed cartoons and generally mentored generations of writers, artists and the many and various ne'er-do-wells and drunks attracted by the pittance paid.
 
