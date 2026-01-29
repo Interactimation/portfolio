@@ -52,7 +52,7 @@ For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I serv
 Inspired by the (then) coming end of the Mayan Calendar:  
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
 
-Which, of course, is now _clearly occurring_! 
+All of which now, of course, is _clearly occurring_! 
 
 <br />
 
