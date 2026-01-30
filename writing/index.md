@@ -58,9 +58,9 @@ All of which now, of course, is _clearly occurring_!
 
 ## **Journeyman Journalist —** my decade at the DN 
 During those same years I became sort of _world famous in Lincoln, Nebraska_— a line which has gotten laughs as far away as Seoul, South Korea.  
-When I found out the rag _paid_ I was in the office like a shot. The Johnny Carson black box was brand new in those days and brought in a ton of experimental dance. "Who wants to be the _dance writer_?" was a question I could only answer with, _Yo._ 
+When I found out the rag _paid_, I was in the office like a shot. The Johnny Carson black box was brand new in those days and brought in a ton of experimental dance. "Who wants to be the _dance writer_?" was a question I could only answer with, _Yo._ 
 
-By the end of the decade (I worked for a living, y'all, no nepo baby, me!) I'd been a reporter, section editor, I'd  drawn op-ed cartoons and generally mentored generations of writers, artists and the many and various ne'er-do-wells and drunks attracted by the pittance paid.
+By the end of the decade (part-time student, I worked for a living, y'all. No nepo baby, me!) I'd been a reporter, a section editor, served on the _Publications Board_. I'd  drawn op-ed cartoons, written headlines and generally mentored generations of writers, artists and many, various, ne'er-do-wells and drunks attracted by the pittance paid.
 
 <br />
 
@@ -74,8 +74,8 @@ Once there, however, I immediately switched to _Art and Tech_... Though I manage
 
 ## **Lame Claim to Fame:** my time in TV-Land 
 
-As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own "big guy" in the corner office— I created interactives, promotions and performed voice-overs. I largely retroscripted "classic" TV shows into new jokes, deconstructed narratives.  
-It was the low-power station with the nation's largest audience: cunningly placing its antennae atop the Hancock building, reaching all Chicagoland.  
+As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own _big guy in the corner office_— I created interactives, promotions and performed voice-overs. I largely retroscripted "classic" TV shows into new jokes, deconstructed narratives.  
+It was the low-power station with the nation's largest audience —cunningly placing its antennae atop the Hancock building, it reached all Chicagoland.  
 Later, licensing to cable took it nationwide. That's right: I know _Svengoolie_!
 
 <br />
