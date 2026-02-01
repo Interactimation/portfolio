@@ -14,6 +14,14 @@ html {
   overflow-y: scroll;
 }
 
+/* narrow body*/
+.markdown-body {
+  max-width: 720px;
+  margin: auto;
+  padding: 1.5em;
+}
+
+
 /* link details */
 a:link    { color: #8abca0; }
 a:visited { color: #938abc; }
