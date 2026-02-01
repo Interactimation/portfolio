@@ -81,7 +81,7 @@ At some point, inspired by the They Might be Giants _Dial-A-Song_ project, I lau
 No lesser light than Allen Ginsberg called in to encourage me in the experiment, which definitively built the machine in my brain that spits out pithy prose.  
 To this day, with a little lubrication —_braaaat!_ —out pops a paragraph.   
 
-<br />
+
 
 ## **Lame Claim to Fame:** my time in TV-Land 
 
