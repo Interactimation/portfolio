@@ -24,8 +24,8 @@ html {
 
 /* link details */
 a:link    { color: #8abca0; }
-a:visited { color: #938abc; }
-a:hover   { color: #8abcbb; }
+a:visited { color: #8aa3bc; }
+a:hover   { color: #d3eded; }
 a { text-decoration: underline; }
 
 /* style text */
