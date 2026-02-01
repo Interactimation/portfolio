@@ -37,9 +37,9 @@ Nevertheless, I offered solo "units" in each. To date, one of my favorite gigs.
 
 <br />
 
-## **By then I'd Already Toured** with a sketch comedy troupe
+## **By then I'd Already Toured** the country with a sketch comedy troupe
 
-_A Going Concern_ targeted youth camps, clubs, churches (nothing "blue", positive "energy") and whatnot. We wrote our own material, traveled thousands of miles per week, slept —five young men and a driver— in one van. We ate fast food, drank nothing but soda as we crisscrossed the nation.  
+_A Going Concern_ targeted youth camps, clubs, churches (nothing "blue", all positive "energy") and whatnot. We wrote our own material, traveled thousands of miles per week, slept —five young men and a driver— in one van. We ate fast food, drank nothing but soda as we crisscrossed the nation.  
 In the Rockies, my first crossing of the continental divide, I jumped out, shouting: _Never peed in the Pacific!_  
 Before noticing my urine was bright orange.  
 It's amazing any of us lived. Need I say: it's a bit of a blur?
@@ -48,39 +48,49 @@ It's amazing any of us lived. Need I say: it's a bit of a blur?
 
 ## **Proctor of Performance -OR-** A band is like a marriage
 
-For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta _The Long Count_, which premiered at the Montreal Fringe in 2007.  
+For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta <p><img src="pix/LongCountPressArt_thumb.jpg" alt="_The Long Count_," style="float:left;width:42px;height:42px;">
+which premiered at the Montreal Fringe in 2007.  
 Inspired by the (then) coming end of the Mayan Calendar:  
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
 
-All of which now, of course, is _clearly occurring_! 
+All of which now, of course, is now _clearly occurring_! 
 
 <br />
 
 ## **Journeyman Journalist —** my decade at the DN 
 During those same years I became sort of _world famous in Lincoln, Nebraska_— a line which has gotten laughs as far away as Seoul, South Korea.  
-When I found out the rag _paid_, I was in the office like a shot. The Johnny Carson black box was brand new in those days and brought in a ton of experimental dance. "Who wants to be the _dance writer_?" was a question I could only answer with, _Yo._ 
+When I found out the rag _paid_, I was in the office like a shot. The Johnny Carson black box was brand new in those days and brought in a ton of experimental dance.  
+"[Who wants to be the _dance writer_?](https://nebnewspapers.unl.edu/lccn/sn96080312/1992-01-20/ed-1/seq-6/)" was a question I could only answer with, _Yo._ 
 
-By the end of the decade (part-time student, I worked for a living, y'all. No nepo baby, me!) I'd been a reporter, a section editor, served on the _Publications Board_. I'd  drawn op-ed cartoons, written headlines and generally mentored generations of writers, artists and many, various, ne'er-do-wells and drunks attracted by the pittance paid.
+By the end of the decade (part-time student, I worked for a living, y'all. No nepo baby, me!) I'd been a reporter, a section editor, served on the _Publications Board_. I'd  drawn op-ed cartoons, written headlines and generally mentored generations of writers, artists and many, various, ne'er-do-wells and drunkards attracted by the pittance paid.
 
 <br />
 
 ## **"Studying" Writing is Like** "practicing" surgery  
 
-Perhaps because of this, I was granted some _special dispensation_ to take graduate-level writing courses, as an undergrad, at one of the midwest's (then) premier MFA programs. I took _all_ of them.   
-It was my extra-curricular work with HOWLOOSEANATION, however, that saw me enrolled, early in the 21st Century, at the (then) premier Arts Grad Program in the nation, The School of the Art Institute of Chicago, as a _Performance Artist_.  
-Once there, however, I immediately switched to _Art and Tech_... Though I managed to retain student work in both programs, graduating  with the "Leadership Award." 
+Perhaps because of this, I was granted some _special dispensation_ to take graduate-level writing courses, as an undergrad, at one of the midwest's (then) premier MFA programs. I took _all_ of them. 
+At some point, inspired by the They Might be Giants _Dial-A-Song_ project, I launched [StoryLine, a call-in, storytelling service, new recordings daily](https://nebnewspapers.unl.edu/lccn/sn96080312/1995-02-20/ed-1/seq-9/) for a full year.  
+No lesser light than Allen Ginsberg called in to encourage me in the experiment, which definitively built the machine in my brain that spits out pithy prose.  
+To this day, with a little lubrication —_braaaat!_ —out pops a paragraph.   
 
 <br />
 
 ## **Lame Claim to Fame:** my time in TV-Land 
 
-As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own _big guy in the corner office_— I created interactives, promotions and performed voice-overs. I largely retroscripted "classic" TV shows into new jokes, deconstructed narratives.  
-It was the low-power station with the nation's largest audience —cunningly placing its antennae atop the Hancock building, it reached all Chicagoland.  
-Later, licensing to cable took it nationwide. That's right: I know _Svengoolie_!
+As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own _big guy in the corner office_— I created interactives, promotions, performed voice-overs.  
+I largely retroscripted ["classic" TV shows into new jokes, deconstructed narratives]().  
+This was the low-power station with the nation's largest audience —cunningly placing its antennae atop the Hancock building, it reached all Chicagoland.  
+Later, licensing to cable took MeTV nationwide. That's right: I know _Svengoolie_!
 
 <br />
 
 ## **Producer, Production, Product,** that inevitable declension
+
+Thus I entered the realm of "interactive marketing," serving as producer on innovative projects for Fortune 100 clients like Diageo.  
+With _Publicis Groupe_ I helped create, for TheBar (dotcom), —a long defunct, Flash-based, live action bartenter who remembered you from _last_ time, took drink orders, commented on the weather in your location (called you by name —if it appeared on a list of hundreds) and told ribald stories, cracking insider jokes.  
+This won a national award for innovation, though those who remember Burger King's down-low promotion _Submissive Chicken_ will be familiar with the concept. 
+
+
 
 ///Chicago interactive marketing///
 
