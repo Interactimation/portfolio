@@ -111,7 +111,7 @@ a { text-decoration: underline; }
 /* thumbnail images */
 .thumb-left {
   float: left;
-  width: 10%;
+  width: 20%;
   max-width: 120px;
   margin: 0 1em 0.5em 0;
 }
