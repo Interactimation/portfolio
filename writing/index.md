@@ -86,7 +86,7 @@ To this day, with a little lubrication —_braaaat!_ —out pops a paragraph.
 ## **Lame Claim to Fame:** my time in TV-Land 
 
 As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own _big guy in the corner office_— I created interactives, promotions, performed voice-overs.
-I largely retroscripted<a href="https://www.yout-ube.com/watch?v=BxWFd7ul5ao" target="_blank"> "classic" TV shows into new jokes, deconstructed narratives.</a><br />
+I largely retroscripted <a href="https://www.yout-ube.com/watch?v=BxWFd7ul5ao" target="_blank">"classic" TV shows into new jokes, deconstructed narratives.</a><br />
 This was the low-power station with the nation's largest audience —cunningly placing its antennae atop the Hancock building, it reached all Chicagoland.  
 Later, licensing to cable took MeTV nationwide. That's right: I know _Svengoolie_!
 
@@ -96,7 +96,7 @@ Later, licensing to cable took MeTV nationwide. That's right: I know _Svengoolie
 
 Thus I entered the realm of "interactive marketing," serving as producer on innovative projects for Fortune 100 clients like Diageo.  
 With _Publicis Groupe_ I helped create, for TheBar (dotcom), —a long defunct, Flash-based, live action bartenter who remembered you from _last_ time, took drink orders, commented on the weather in your location (called you by name —if it appeared on a list of hundreds) and told ribald stories, cracking insider jokes.  
-This won a national award for innovation, though those who remember Burger King's down-low promotion _Submissive Chicken_ will be familiar with the concept. 
+This won a national award for innovation, though those who remember Burger King's down-low promotion <a href="https://www.yout-ube.com/watch?v=rGjtE_SOn70" target="_blank"><i>Subservient Chicken</i></a> will be familiar with the concept. Our bartender was like that, only with thousands of alternate clips.  
 
 
 
