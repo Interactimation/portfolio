@@ -79,7 +79,7 @@ By the end of the decade (part-time student, I worked for a living, y'all. No ne
 ## **"Studying" Writing is Like** "practicing" surgery  
 
 Perhaps because of this, I was granted some _special dispensation_ to take graduate-level writing courses, as an undergrad, at one of the midwest's (then) premier MFA programs. I took _all_ of them. 
-At some point, inspired by the They Might be Giants _Dial-A-Song_ project, I launched [StoryLine, a call-in, storytelling service, new recordings daily](https://nebnewspapers.unl.edu/lccn/sn96080312/1995-02-20/ed-1/seq-9/) for a full year.  
+At some point, inspired by the They Might be Giants _Dial-A-Song_ project, I launched <a href="https://nebnewspapers.unl.edu/lccn/sn96080312/1995-02-20/ed-1/seq-9/" target="_blank">StoryLine, a call-in, storytelling service, new recordings daily?</a> for a full year.  
 No lesser light than Allen Ginsberg called in to encourage me in the experiment, which definitively built the machine in my brain that spits out pithy prose.  
 To this day, with a little lubrication —_braaaat!_ —out pops a paragraph.   
 
@@ -87,8 +87,8 @@ To this day, with a little lubrication —_braaaat!_ —out pops a paragraph.
 
 ## **Lame Claim to Fame:** my time in TV-Land 
 
-As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own _big guy in the corner office_— I created interactives, promotions, performed voice-overs.  
-I largely retroscripted ["classic" TV shows into new jokes, deconstructed narratives]().  
+As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own _big guy in the corner office_— I created interactives, promotions, performed voice-overs.
+I largely retroscripted<a href="https://www.yout-ube.com/watch?v=BxWFd7ul5ao" target="_blank"> "classic" TV shows into new jokes, deconstructed narratives.</a><br />
 This was the low-power station with the nation's largest audience —cunningly placing its antennae atop the Hancock building, it reached all Chicagoland.  
 Later, licensing to cable took MeTV nationwide. That's right: I know _Svengoolie_!
 
