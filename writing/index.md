@@ -48,9 +48,9 @@ It's amazing any of us lived. Need I say: it's a bit of a blur?
 
 ## **Proctor of Performance -OR-** A band is like a marriage
 
-For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta <p><img src="pix/LongCountPressArt_thumb.jpg" alt="_The Long Count_," style="float:left;width:42px;height:42px;">
-which premiered at the Montreal Fringe in 2007.  
-Inspired by the (then) coming end of the Mayan Calendar:  
+For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta <p><img src="pix/LongCountPressArt_thumb.jpg" alt="the long count poster" style="float:left;width:42px">_The Long Count_, which premiered at the Montreal Fringe in 2007.  
+Inspired by the (then) coming end of the Mayan Calendar: </p>
+ 
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
 
 All of which now, of course, is now _clearly occurring_! 
