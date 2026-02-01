@@ -61,7 +61,7 @@ My sci-fi premise:</p>
  
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
 
-All of which now, of course, is now _clearly occurring_! 
+All of which is now, of course, _clearly occurring_! 
 
 <br />
 
