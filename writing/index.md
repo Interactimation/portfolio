@@ -32,7 +32,8 @@ layout: default
 
 ## **Playwright is a Word,** like wheelwright, shipwright
 
-My very first teaching gig, outside Sunday School, that kind of thing, came in my early 20s at the Johns Hopkins Center for Talented Youth, or _CTY_. There I served as Teaching Assistant in _Playwriting_ —which I'd studied at Texas Tech University— and _The Essay_, of which I knew nothing beyond having read _Montaigne_.  
+My very first teaching gig, outside Sunday School, that kind of thing, came in my early 20s at the Johns Hopkins <a href="https://cty.jhu.edu/cty-experience" target="_blank">Center for Talented Youth, or _CTY_</a>.  
+There I served as Teaching Assistant in _Playwriting_ —which I'd studied at Texas Tech University— and _The Essay_, of which I knew nothing beyond having read _Montaigne_.  
 Nevertheless, I offered solo "units" in each. To date, one of my favorite gigs.
 
 <br />
