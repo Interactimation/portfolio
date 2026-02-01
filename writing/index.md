@@ -48,7 +48,17 @@ It's amazing any of us lived. Need I say: it's a bit of a blur?
 
 ## **Proctor of Performance -OR-** A band is like a marriage
 
-For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta <p><img src="pix/LongCountPressArt_thumb.jpg" alt="long count poster" style="float:left;width:60px">_The Long Count_, which premiered at the Montreal Fringe in 2007.  
+For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I served as _Artistic Director_. I wrote songs, scenarios, the libretto of our operetta 
+<a href="{{ "/pix/LongCountPressArt.jpg" | relative_url }}" target="_blank">
+  <img class="thumb-left"
+       src="{{ "/pix/LongCountPressArt_thumb.jpg" | relative_url }}"
+       alt="long count poster">
+</a>
+
+
+
+
+_The Long Count_, which premiered at the Montreal Fringe in 2007.  
 Inspired by the (then) coming end of the Mayan Calendar:</p>
  
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
@@ -97,3 +107,5 @@ This won a national award for innovation, though those who remember Burger King'
 
 
 
+<!--
+<p><img src="pix/LongCountPressArt_thumb.jpg" alt="long count poster" style="float:left;width:60px">-->
