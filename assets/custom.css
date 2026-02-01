@@ -36,7 +36,7 @@ a { text-decoration: underline; }
 }
 
 /* headings 1–5 share font */
-.markdown-body h1,
+.markdown-body h1 {font-size: 180%;font-family: "Times New Roman", Times, serif;}
 .markdown-body h2,
 .markdown-body h3,
 .markdown-body h4,
