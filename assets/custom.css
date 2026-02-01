@@ -112,6 +112,6 @@ a { text-decoration: underline; }
 .thumb-left {
   float: left;
   width: 10%;
-  max-width: 60px;
+  max-width: 120px;
   margin: 0 1em 0.5em 0;
 }
