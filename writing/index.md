@@ -64,7 +64,6 @@ My sci-fi premise:</p>
 All of which now, of course, is now _clearly occurring_! 
 
 <br />
-<br />
 
 ## **Journeyman Journalist —** my decade at the DN 
 During those same years I became sort of _world famous in Lincoln, Nebraska_— a line which has gotten laughs as far away as Seoul, South Korea.  
