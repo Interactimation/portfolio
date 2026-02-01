@@ -55,8 +55,10 @@ For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I serv
        src="{{ "/pix/LongCountPressArt_thumb.jpg" | relative_url }}"
        alt="long count poster">
 </a>
-I wrote songs, scenarios, the libretto of our operetta <i>The Long Count</i>, which premiered at the Montreal Fringe in 2007.  
-Inspired by the (then) coming end of the Mayan Calendar:</p>
+I wrote press releases, songs, scenarios, and librettos —like that of our operetta <i>The Long Count</i>.  
+This show premiered at the Montreal Fringe in 2007.  
+I'd been inspired by the (then) approaching end of the Mayan Calendar.  
+My sci-fi premise:</p>
  
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
 
