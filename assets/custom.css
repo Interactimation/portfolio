@@ -16,8 +16,8 @@ html {
 
 /* narrow body*/
 .markdown-body {
-  max-width: 720px;
-  margin: auto;
+  max-width: 1200px;
+  margin: 0 auto;
   padding: 1.5em;
 }
 
@@ -28,10 +28,11 @@ a:visited { color: #938abc; }
 a:hover   { color: #8abcbb; }
 a { text-decoration: underline; }
 
-/* style headlines and text */
+/* style text */
 
 .markdown-body {
   font-size: 140%;
+  font-family: "Trebuchet MS", Trebuchet, Arial, sans-serif;
 }
 
 /* headings 1–5 share font */
