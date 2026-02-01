@@ -100,10 +100,6 @@ This won a national award for innovation, though those who remember Burger King'
 
 
 
-///Chicago interactive marketing///
+<!--///Chicago interactive marketing///-->
 
 
-
-
-<!--
-<p><img src="pix/LongCountPressArt_thumb.jpg" alt="long count poster" style="float:left;width:60px">-->
