@@ -83,7 +83,8 @@ I'd  drawn op-ed cartoons, written headlines and generally mentored generations 
 
 ## **"Studying" Writing is Like** "practicing" surgery  
 
-Perhaps because of this, I was granted some _special dispensation_ to take graduate-level writing courses as an undergrad, at one of the midwest's (then) premier MFA programs. I took [_all_ of them](////). 
+Perhaps because of this, I was granted some _special dispensation_ to take graduate-level writing courses as an undergrad, at one of the midwest's (then) premier MFA programs.  
+I took [_all_ of them](////). 
 At some point, inspired by They Might be Giants' _Dial-A-Song_ project, I launched <a href="https://nebnewspapers.unl.edu/lccn/sn96080312/1995-02-20/ed-1/seq-9/" target="_blank">StoryLine,</a> a call-in, storytelling service —new recordings daily— for a full year.  
 
 No lesser light than Allen Ginsberg called in to encourage me in this experiment that definitively built the machine in my brain which spits out pithy prose.  
@@ -94,22 +95,38 @@ To this day, with a little lubrication —_braaaat!_ —out pops a paragraph!
 ## **Lame Claim to Fame:** my time in TV-Land 
 
 As a Producer for MeTV in Chicago —in those days quite the mom-and-pop joint, with its own _big guy in the corner office_— I created interactives, promotions, performed voice-overs.
-I largely retroscripted "classic" TV shows into <a href="https://www.yout-ube.com/watch?v=BxWFd7ul5ao" target="_blank">new jokes, deconstructed narratives.</a><br />
+I largely retroscripted "classic" TV shows into <a href="https://www.yout-ube.com/watch?v=BxWFd7ul5ao" target="_blank">new jokes, deconstructed narratives.</a>  
 This was the low-power station with the nation's largest audience —cunningly placing its antennae atop the Hancock building, it reached all Chicagoland.  
-Later, licensing to cable took MeTV nationwide. That's right: I know _Svengoolie_!
+
+Later, licensing to cable took MeTV nationwide. That's right: I know _Svengoolie_! Last ghoul  standing of the great american Horror Hosts.
 
 <br />
 
 ## **Producer, Production, Product,** that inevitable declension
 
 Thus I entered the realm of "interactive marketing," serving as producer on innovative projects for Fortune 100 clients like Diageo.  
+
 With _Publicis Groupe_ I helped create, for thebar​.com, —a long defunct, Flash-based, live action bartenter who remembered you from _last_ time, took drink orders, commented on the weather in your location (called you by name —if it appeared on a list of hundreds) and told ribald stories, cracking insider jokes.  
 This won a national award for innovation, though those who remember Burger King's down-low promotion, the frenetic <a href="https://www.yout-ube.com/watch?v=rGjtE_SOn70" target="_blank"><i>Subservient Chicken</i></a> will be familiar with the technical concept.  
 Our bartender was a bit like that only, for him, we wrote _fifteen hundred_ wittily interlocking scripts! 
 
 <br/>
 
-## **Membership Hath Privilege —** Science Fiction and Fantasy Writers Association
+## **A Loose Unsyndicate —** I create community 
 
-I joined the SFWA as a full member just relatively recently. It may have been some premonition of the coming slowdown that saw me complete my first _short story_ in many years. 
+It may have been some premonition of the coming slowdown that saw me complete, in early 2020, my first _short story_ in many years.  
+Immediately, as the governor of New York closed down our universities, I reached out to literally _everyone I knew_ who'd ever earned a dollar from their writing, trying to put together a writer's group.  
+I found _one_.  
+Who later _brought_ one.  
+Today, _A Loose Unsyndicate_ (named, at our first meeting, by combining an adjective and a derived noun) still meets every week and boasts six-and-a-half constant contributors.  
+And though the membership is not exactly secret, we have sworn never to reveal the coordinates of that ashram.  
+Some of us have sold cartoons and other content to _The New Yorker_, one manages the social media of a prominent video game studio.  
+A graduate of Chicago's Second City writing program is a member, as is an entrepreneur whose business provides interactive narrative learning content to American schools.  
+One is a full member of SFWA.  
+
+That's me. I'm that guy.
+
+## **Membership Hath Privilege —** I go pro
+
+
 
