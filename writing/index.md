@@ -55,6 +55,7 @@ For more than fifteen years with my [performance "heptet" HOWLOOSEANATION](////)
        src="{{ "/pix/LongCountPressArt_thumb.jpg" | relative_url }}"
        alt="long count poster">
 </a>
+
 I wrote press releases, composed songs devised scenarios.  
 I wrote the libretto for our operetta, <i>The Long Count</i>. This show premiered at the Montreal Fringe in 2007.  
 I'd been inspired by the (then) approaching end of the Mayan Calendar.  
