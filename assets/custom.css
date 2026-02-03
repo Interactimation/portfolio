@@ -52,6 +52,14 @@ a { text-decoration: underline; }
   padding-bottom: 0;
 }
 
+/* block quote */
+.markdown-body blockquote {
+  color: #a1bedc;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 112%;
+  font-style: italic;
+}
+
 /* <b> is bigger and different color */
 
 .markdown-body strong {
