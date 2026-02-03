@@ -32,30 +32,32 @@ layout: default
 
 My very first teaching gig, outside Sunday School, that kind of thing, came in my early 20s at the Johns Hopkins <a href="https://cty.jhu.edu/cty-experience" target="_blank">Center for Talented Youth, or _CTY_</a>.  
 There I served as Teaching Assistant in _Playwriting_ —which I'd studied at Texas Tech University— and _The Essay_, of which I knew nothing beyond having read _Montaigne_.  
-Nevertheless, I offered solo "units" in each. To date, one of my favorite gigs.
+Nevertheless, I offered solo "units" in each. To date, one of my favorite gigs.  
+I've since taught screenplay and playwriting in places as diverse as [Chicago and South Korea](////) but my writing chops have somewhat expanded in the mean time. 
 
 <br />
 
-## **By then I'd Already Toured** the country with a sketch comedy troupe
+## **I Got my Start, Years Before,** touring the country with a sketch comedy troupe
 
-_A Going Concern_ targeted youth camps, clubs, churches (nothing "blue", all positive "energy") and whatnot. We wrote our own material, traveled thousands of miles per week, slept —five young men and a driver— in one van. We ate fast food, drank nothing but soda as we crisscrossed the nation.  
-In the Rockies, my first crossing of the continental divide, I jumped out, shouting: _Never peed in the Pacific!_  
-Before noticing my urine was bright orange.  
+_A Going Concern_ targeted youth camps, clubs, churches (nothing "blue", all "positive energy") and whatnot.  
+We wrote our own material, traveled thousands of miles per week, slept —five young people and a driver— in one van. We ate fast food, drank nothing but soda as we crisscrossed the nation.  
+In the Rockies, my first crossing of the continental divide, I jumped out, shouting— _Never peed in the Pacific!_ —before noticing my urine was bright orange.  
 It's amazing any of us lived. Need I say: it's a bit of a blur?
 
 <br />
 
 ## **Proctor of Performance -OR-** A band is like a marriage
 
-For more than fifteen years with my performance "heptet" HOWLOOSEANATION, I served as _Artistic Director_.  
+For more than fifteen years with my [performance "heptet" HOWLOOSEANATION](////), I served as _Artistic Director_.  
 <p>
 <a href="{{ "/pix/LongCountPressArt.jpg" | relative_url }}" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/LongCountPressArt_thumb.jpg" | relative_url }}"
        alt="long count poster">
 </a>
-I wrote press releases, songs, scenarios, and librettos —like that of our operetta <i>The Long Count</i>.  
-This show premiered at the Montreal Fringe in 2007.  
+
+I wrote press releases, composed songs devised scenarios.  
+I wrote the libretto for our operetta, <i>The Long Count</i>. This show premiered at the Montreal Fringe in 2007.  
 I'd been inspired by the (then) approaching end of the Mayan Calendar.  
 My sci-fi premise:</p>
  
@@ -95,11 +97,13 @@ Later, licensing to cable took MeTV nationwide. That's right: I know _Svengoolie
 ## **Producer, Production, Product,** that inevitable declension
 
 Thus I entered the realm of "interactive marketing," serving as producer on innovative projects for Fortune 100 clients like Diageo.  
-With _Publicis Groupe_ I helped create, for TheBar (dotcom), —a long defunct, Flash-based, live action bartenter who remembered you from _last_ time, took drink orders, commented on the weather in your location (called you by name —if it appeared on a list of hundreds) and told ribald stories, cracking insider jokes.  
-This won a national award for innovation, though those who remember Burger King's down-low promotion <a href="https://www.yout-ube.com/watch?v=rGjtE_SOn70" target="_blank"><i>Subservient Chicken</i></a> will be familiar with the concept. Our bartender was like that, only with thousands of alternate clips.  
+With _Publicis Groupe_ I helped create, for thebar​.com, —a long defunct, Flash-based, live action bartenter who remembered you from _last_ time, took drink orders, commented on the weather in your location (called you by name —if it appeared on a list of hundreds) and told ribald stories, cracking insider jokes.  
+This won a national award for innovation, though those who remember Burger King's down-low promotion, the frenetic <a href="https://www.yout-ube.com/watch?v=rGjtE_SOn70" target="_blank"><i>Subservient Chicken</i></a> will be familiar with the technical concept.  
+Our bartender was a bit like that only, for him, we wrote _fifteen hundred_ wittily interlocking scripts! 
 
+<br/>
 
+## **Membership Hath Privilege —** Science Fiction and Fantasy Writers Association
 
-<!--///Chicago interactive marketing///-->
-
+I joined the SFWA as a full member just relatively recently. It may have been some premonition of the coming slowdown that saw me complete my first _short story_ in many years. 
 
