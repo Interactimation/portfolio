@@ -119,7 +119,7 @@ Immediately, as the governor of New York closed down our universities, I reached
 I found _one_.  
 Who later _brought_ one.  
 Today, _A Loose Unsyndicate_ (named, at our first meeting, by combining an adjective and a derived noun) still meets every week and boasts six-and-a-half constant contributors.  
-And though the membership is not exactly secret, we have sworn never to reveal the coordinates of that ashram.  
+And though the membership is not exactly secret, I have sworn never to reveal the coordinates of that ashram.  
 Some of us have sold cartoons and other content to _The New Yorker_, one manages the social media of a prominent video game studio.  
 A graduate of Chicago's Second City writing program is a member, as is an entrepreneur whose business provides interactive narrative learning content to American schools.  
 One is a full member of SFWA.  
@@ -127,6 +127,17 @@ One is a full member of SFWA.
 That's me. I'm that guy.
 
 ## **Membership Hath Privilege —** I go pro
+
+That first short story, after 20 years of _every other_ kind of writing, produced its progeny of dozens. Though it has yet to sell (I'm working on it!) many of its children were picked up and paid for. 
+While I'd fancied myself a _magic realist_ while stapling my 1990s _zines_ together (my _Homunculus_ lived atop toilet tanks all over the city, its little stories the perfect length for reflection) this, these, are clearly _speculative_, most falling squarely in the Science Fiction sandbox.  
+I've sold to _Asimov's_, _Analog_, _The Fabulist_ and bunches of others —earning enough in sales to qualify and finally join The Science Fiction and Fantasy Writers Association, better known by its ancinet monicker, the _Science Fiction Writers of America_. 
+
+Rather than tell you about it, I'd have you visit [my brutalist, hand-coded writer's site](https://www.donmarkbaldridge.com/).  
+There, most of the cover art images link to the online stories —exceptions being print-only titles. As the embargoes lift on republication, I expect to be linking to some sort of document. 
+I just don't want it to look like ANSI A paper in double-spaced Times New Roman!
+
+<hr />
+
 
 
 
