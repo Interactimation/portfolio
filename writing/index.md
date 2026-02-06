@@ -136,8 +136,19 @@ Rather than tell you about it, I'd have you visit [my brutalist, hand-coded writ
 There, most of the cover art images link to the online stories —exceptions being print-only titles. As the embargoes lift on republication, I expect to be linking to some sort of document. 
 I just don't want it to look like ANSI A paper in double-spaced Times New Roman!
 
+## **Screenplay as Playform —** Playcrazy after all these years 
+
+Haven't done much like _theatre_ since the Plague (early 2020s) but I have the sense that my future as a playwright might lie in animation.  
+As an animator, I'm a puppeteer, and as a puppeteer, an actor and I liek writing for actors...  
+So this is new, and actually has to —due to the exigencies of the screenplay form— appear in an 8.5/11" white slab.  It's meant to commemorate (and exploit) a property that has never _not_ made money: _Popeye_, that spinach-snarfing sailroman, made his glorious entry into the public domain in 2025!  
+I got to wondering if there was something in OLD Popeye —and then I remembered we already got one!  
+I give you: [_Poop Deck Pappy!_](SailormanEp001.pdf)
+
+<br />
+
 <hr />
 
+###### [home]({{ "/" | relative_url }})
 
 
 

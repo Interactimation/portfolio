@@ -16,7 +16,7 @@ html {
 
 /* narrow body*/
 .markdown-body {
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 1.5em;
 }
@@ -75,7 +75,7 @@ a { text-decoration: underline; }
   border: none;
 }
 
-/* h6 as label */
+/* h6 as HOME link */
 .markdown-body h6 {
   font-family: Arial, Helvetica, sans-serif;
   color: #ffe4e1 !important;
