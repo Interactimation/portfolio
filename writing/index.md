@@ -34,7 +34,7 @@ My very first teaching gig, outside Sunday School, that kind of thing, came in m
 There I served as Teaching Assistant in _Playwriting_ —which I'd studied at Texas Tech University— and _The Essay_, of which I knew nothing beyond having read _Montaigne_.  
 Nevertheless, I offered solo "units" in each. To date, one of my favorite gigs.  
 
-I've since taught screenplay and playwriting in places as diverse as [Chicago and South Korea](////) but my writing chops have somewhat expanded in the mean time. 
+I've since taught screenplay and playwriting in places as diverse as <del>[Chicago and South Korea](////)</del> but my writing chops have somewhat expanded in the mean time. 
 
 <br />
 
@@ -50,7 +50,7 @@ It's amazing any of us lived. Need I say: it's a bit of a blur?
 
 ## **Proctor of Performance -OR-** A band is like a marriage
 
-For more than fifteen years with my [performance "heptet" HOWLOOSEANATION](////), I served as _Artistic Director_.  
+For more than fifteen years with my <del>[performance "heptet" HOWLOOSEANATION](////)</del>, I served as _Artistic Director_.  
 <p>
 <a href="{{ "/pix/LongCountPressArt.jpg" | relative_url }}" target="_blank">
   <img class="thumb-left"
@@ -85,7 +85,7 @@ I'd  drawn op-ed cartoons, written headlines and generally mentored generations 
 ## **"Studying" Writing is Like** "practicing" surgery  
 
 Perhaps because of this, I was granted some _special dispensation_ to take graduate-level writing courses as an undergrad, at one of the midwest's (then) premier MFA programs.  
-I took [_all_ of them](////). 
+I took <del>[_all_ of them](////)</del>. 
 At some point, inspired by They Might be Giants' _Dial-A-Song_ project, I launched <a href="https://nebnewspapers.unl.edu/lccn/sn96080312/1995-02-20/ed-1/seq-9/" target="_blank">StoryLine,</a> a call-in, storytelling service —new recordings daily— for a full year.  
 
 No lesser light than Allen Ginsberg called in to encourage me in this experiment that definitively built the machine in my brain which spits out pithy prose.  
