@@ -138,10 +138,13 @@ I just don't want it to look like ANSI A paper in double-spaced Times New Roman!
 
 ## **Screenplay as Playform —** Playcrazy after all these years 
 
-Haven't done much like _theatre_ since the Plague (early 2020s) but I have the sense that my future as a playwright might lie in _animation_.  
-As an animator, I'm a puppeteer, and as a puppeteer, an actor, improvisor, _writer_. And I like writing for actors...  
-So this is new, and actually _has_ to —due to the strict exigencies of the screenplay format— appear in an 8.5/11" white slab. It's meant to commemorate (and exploit) a property that has never _not_ made money: _Popeye_, that spinach-snarfing sailorman, made his glorious entrance into the public domain in 2025!  
-I got to wondering if there was something in OLD Popeye —and then I remembered: we already got one!  
+Haven't done much like _theatre_ since the Plague (early 2020s) but I now have the sense that my future as a playwright might lie in _animation_.  
+As an animator, I'm a puppeteer, and as a puppeteer, an actor, improvisor, _writer_ —and I _like_ writing for actors...  
+So this is new, and actually _must_ —due to the strict exigencies of the screenplay format— appear in an 8.5/11" white slab. It's meant to commemorate (and exploit) a property that has never _not_ made money:  
+
+> _Popeye_, that spinach-snarfing sailorman, made his glorious entrance into the public domain in 2025!  
+
+I got to wondering if there might be something in OLD Popeye —and then I remembered: we already _gots_ one!  
 Folks, I give you: [_Poop Deck Pappy!_](SailormanEp001.pdf)
 
 <br />
