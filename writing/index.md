@@ -61,7 +61,7 @@ For more than fifteen years with my [performance "heptet" HOWLOOSEANATION](////)
 I wrote press releases, composed songs, devised scenarios.  
 I penned the libretto for our operetta, <i>The Long Count</i> —this was the show that premiered at the Montreal Fringe in 2007.  
 I'd been inspired by the (then) approaching end of the Mayan Calendar.  
-My sci-fi premise:</p>
+My sci-fi premise:
  
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
 
