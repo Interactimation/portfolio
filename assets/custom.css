@@ -28,6 +28,12 @@ a:visited { color: #a1bedc; }
 a:hover   { color: #c7d3e0; }
 a { text-decoration: underline; }
 
+/* strike-thru color */
+
+del {
+  text-decoration-color: #d883e1;
+}
+
 /* style text */
 
 .markdown-body {
