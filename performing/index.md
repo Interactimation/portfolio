@@ -55,13 +55,13 @@ A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a ye
 </a>
 </p> 
 On his departure, he invited us to return the visit.  
-I don't know that he expected two of us to take him up on it, but in our senior year <del>[Scott Simpson](////)</del> and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land. Traveling, singing and storytelling, it was my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
+I don't know that he expected two of us to take him up on it, but in our senior year my friend <del>[Scott Simpson](////)</del> and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land. Traveling, singing and storytelling, it was my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
 
 
 ## **The Boy in the Bands—** an incomplete list 
 
 Before I get to the _Great Band of my Life_ I should mention some others:  
-In South Korea I fronted <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Mister Tickle</a>, a _jazzpunk_ trio of professors from England, Ireland and the US.
+In South Korea I fronted <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Mister Tickle</a>, a _jazzpunk_ trio of professors from England, Ireland and the US. (BEWARE: SoundCloud deceptively places the "close this" X far to the side of the )
 
 
 
