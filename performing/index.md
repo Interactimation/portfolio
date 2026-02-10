@@ -44,7 +44,8 @@ And, ok, now that I write it out, I feel like I copped it from an episode of _Th
 
 ## **Singing and Storytelling** in the US and Abroad  
 
-As I approached my highschool graduation, I qualified to join the Texas All State Choir at about the same time that I was planning a trip to India.  
+As I approached my highschool graduation, I qualified to join the Texas All State Choir at about the same time that I was planning a trip to India. The decision wasn't difficult.  
+
 A couple years earlier an exchange student from _Andhra Pradesh_ had spent a year with our weird little Christian School, while remaining steadfastly Hindu. I and my friends took him under our wing. On his departure he invited us to return the visit.  
 
 <p>
