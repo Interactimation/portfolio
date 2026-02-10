@@ -55,8 +55,9 @@ A couple years earlier an exchange student from _Andhra Pradesh_ had spent a yea
        alt="long count poster">
 </a>
 
+</p>
 I don't know that he expected two of us to take him up on it, but in our senior year <del>[Scott Simpson](////)</del> and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land. Traveling, singing and storytelling, it was my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
-</p> 
+ 
 
 
 
