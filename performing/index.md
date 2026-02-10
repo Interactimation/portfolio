@@ -42,28 +42,28 @@ In the moment, I replied:
 
 And, ok, now that I write it out, I feel like I copped it from an episode of _The Jeffersons_, but what a moment! It _sold_ me. I'd _paralyzed_ the guy!
 
-## **Singing and Storytelling** in the US and Abroad  
+## **Singing and Storytelling:** the US and Abroad  
 
-As I approached my highschool graduation, I qualified to join the Texas All State Choir at about the same time that I was planning a trip to India. The decision wasn't difficult.  
+As I approached my highschool graduation, I qualified to join the Texas All State Choir at about the same time that I planned a trip to India. The decision wasn't difficult.  
 
-A couple years earlier an exchange student from _Andhra Pradesh_ had spent a year with our weird little Christian School, while remaining steadfastly Hindu. I and my friends took him under our wing. On his departure he invited us to return the visit.  
-
+A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a year in our weird little Christian School —while remaining steadfastly Hindu. I and my friends took him under our wing.
 <p>
 <a href="{{ "/pix/Kumbakonam.jpg" | relative_url }}" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/Kumbakonam_thumb.jpg" | relative_url }}"
-       alt="long count poster">
+       alt="indian temple with thousands of gods">
 </a>
-
-</p>
+</p> 
+On his departure, he invited us to return the visit.  
 I don't know that he expected two of us to take him up on it, but in our senior year <del>[Scott Simpson](////)</del> and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land. Traveling, singing and storytelling, it was my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
- 
 
 
+## **The Boy in the Bands—** an incomplete list 
 
-## **The Boy in the Band—** an incomplete list 
+Before I get to the _Great Band of my Life_ I should mention some others:  
+In South Korea I fronted <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Mister Tickle</a>, a _jazzpunk_ trio of professors from England, Ireland and the US.
 
-Before I get to the _Great Band of my Life_ I should mention some others.  
+
 
 
 
