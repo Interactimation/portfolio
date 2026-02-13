@@ -47,22 +47,24 @@ And, ok, now that I write it out, I feel like I copped it from an episode of _Th
 
 In the approach to my highschool graduation, I qualified to join the Texas All State Choir at about the same time I'd planned a trip to India. The decision wasn't difficult.  
 
-A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a year in our weird little Christian School —while remaining steadfastly Hindu. I and my friends took him under our wing.
+A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a year in our weird little Christian School —while remaining steadfastly Hindu. I and my friends were very welcoming. We had him for sleepovers, to dinner in our homes. Took an interest.
 <p>
 <a href="{{ "/pix/Kumbakonam.jpg" | relative_url }}" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/Kumbakonam_thumb.jpg" | relative_url }}"
        alt="indian temple with thousands of gods">
 </a>
+</p>
 
-On his departure, he invited us to return the visit.
+So on his departure, he invited us to return the visit.
   
 > This, I was eager to do.   
 
 I'd felt, from my earliest days, that the world was mine —that I should _explore_ it. No pioneer, me; it was sheer privilege.
 
-I doubt our friend expected two of us to take him up on the offer, and so _soon_...  
-But in our senior year my good friend 
+But I doubt our friend expected two of us to take him up on the offer, and so _soon_... 
+<p> 
+But the very next year, as highschool seniors, my good friend 
 <a href="https://faithfulcrum.com/" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
