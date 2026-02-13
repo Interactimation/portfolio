@@ -65,7 +65,7 @@ I doubt our friend expected two of us to take him up on the offer, and so _soon_
 But in our senior year my good friend 
 <a href="https://faithfulcrum.com/" target="_blank">
   <img class="thumb-left"
-       src="{{ "/pix/seasonTwoCharicatures.jpg.jpg" | relative_url }}"
+       src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
        alt="Scott Simpson">
 </a>
 and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land.
