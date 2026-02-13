@@ -54,15 +54,15 @@ A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a ye
        src="{{ "/pix/Kumbakonam_thumb.jpg" | relative_url }}"
        alt="indian temple with thousands of gods">
 </a>
-</p> 
+
 On his departure, he invited us to return the visit.
   
 > This, I was eager to do.   
 
-I'd felt, from my earliest days, that the world was mine —that I should _explore_. 
+I'd felt, from my earliest days, that the world was mine —that I should _explore_ it. No pioneer, me; it was sheer privilege.
 
-I doubt our Indian friend expected two of us to take him up on the offer...  
-But in our senior year my friend <p>
+I doubt our friend expected two of us to take him up on the offer, and so _soon_...  
+But in our senior year my good friend 
 <a href="https://faithfulcrum.com/" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/seasonTwoCharicatures.jpg.jpg" | relative_url }}"
