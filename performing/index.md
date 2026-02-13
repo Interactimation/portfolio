@@ -66,7 +66,7 @@ No pioneer, me; it was sheer privilege.
 But I doubt our friend expected two of us to take him up on the offer, and so _soon_... 
 <p> 
 <br />
-It was the very next year, when, as highschool seniors, my good friend Scott Simpson 
+It was the very next year, when —as highschool seniors— my good friend Scott Simpson 
 <a href="https://faithfulcrum.com/" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
