@@ -57,7 +57,7 @@ A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a ye
 </a>
 </p> 
 
-I and my friends welcomed him! Had him for sleepovers, to dinner in our homes. We took an interest in our visitor from the far side of the globe!  
+I and my friends welcomed him, had him for sleepovers, to dinner in our homes. We took an interest in our visitor from the far side of the globe!  
 On his departure, he invited us to return the visit.
   
 > This, I was eager to do.   
