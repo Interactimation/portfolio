@@ -56,7 +56,11 @@ A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a ye
 </a>
 </p> 
 On his departure, he invited us to return the visit.  
-I don't know that he expected two to take him up on it, but in our senior year my friend <p>
+This, I was eager to do.   
+I'd felt, from my earliest days, that the world was mine —that I should _explore_. 
+
+I doubt our Indian friend expected two of us to take him up on the offer...  
+But in our senior year my friend <p>
 <a href="https://faithfulcrum.com/" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/seasonTwoCharicatures.jpg.jpg" | relative_url }}"
