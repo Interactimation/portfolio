@@ -66,11 +66,11 @@ No pioneer, me; it was sheer privilege.
 But I doubt our friend expected two of us to take him up on the offer, and so _soon_... 
 <p> 
 <br />
-It was the very next years, when, as highschool seniors, my good friend 
+It was the very next year, when, as highschool seniors, my good friend Scott Simpson 
 <a href="https://faithfulcrum.com/" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
-       alt="Scott Simpson">
+       alt="faithfulcrum logo">
 </a>
 and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land.
 </p> 
