@@ -47,13 +47,17 @@ And, ok, now that I write it out, I feel like I copped it from an episode of _Th
 
 In the approach to my highschool graduation, I qualified to join the Texas All State Choir at about the same time I'd planned a trip to India. The decision wasn't difficult.  
 
-A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a year in our weird little Christian School —while remaining steadfastly Hindu. <p>
+A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a year in our weird little Christian School —while remaining steadfastly Hindu. 
+
+<p>
 <a href="{{ "/pix/Kumbakonam.jpg" | relative_url }}" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/Kumbakonam_thumb.jpg" | relative_url }}"
        alt="indian temple with thousands of gods">
 </a>
-</p> I and my friends welcomed him! Had him for sleepovers, to dinner in our homes. We took an interest in our visitor from the far side of the globe!  
+</p> 
+
+I and my friends welcomed him! Had him for sleepovers, to dinner in our homes. We took an interest in our visitor from the far side of the globe!  
 On his departure, he invited us to return the visit.
   
 > This, I was eager to do.   
