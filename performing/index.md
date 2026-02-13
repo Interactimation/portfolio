@@ -62,9 +62,10 @@ I don't know that he expected two to take him up on it, but in our senior year m
        src="{{ "/pix/seasonTwoCharicatures.jpg.jpg" | relative_url }}"
        alt="Scott Simpson">
 </a>
+and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land.
 </p> 
 
-<del>[Scott Simpson](////)https://faithfulcrum.com/</del> and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land. Traveling, singing and storytelling my way around the subcontinent gav me my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
+Traveling, singing and storytelling my way around the subcontinent gav me my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
 
 
 ## **The Boy in the Bands—** an incomplete list 
