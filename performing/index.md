@@ -65,7 +65,8 @@ No pioneer, me; it was sheer privilege.
 
 But I doubt our friend expected two of us to take him up on the offer, and so _soon_... 
 <p> 
-But the very next year, as highschool seniors, my good friend 
+<br />
+It was the very next years, when, as highschool seniors, my good friend 
 <a href="https://faithfulcrum.com/" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
