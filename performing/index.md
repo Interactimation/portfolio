@@ -30,10 +30,11 @@ layout: default
 
 ## **Where Writing and Making Meet** is in Performance, my oldest practice
 
-Raised by shape note singers, in a fundamentalist and very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading the _a cappella_ singing (in four part harmony) for which our sect is justly famous...  
-Or, a favorite, as part of the _puppet ministry_ of Vacation Bible School, I have been before audiences since I was in short pants.   
+Raised by shape note singers, in a fundamentalist and very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading _a cappella_ singing (in four part harmony) for which our sect is justly famous...  
+Or, a favorite, as part of the _puppet ministry_ of Vacation Bible School, I have been, all unseen, before audiences since I was in short pants.   
 
-As a puppeteer (I named my alter ego _Melvin J. Pickles_) I learned to improvise. It was in this persona that I devised, on the spot, my first joke.  
+As a puppeteer (naming my alter ego _Melvin J. Pickles_) I learned to improvise. It was in this persona that I devised, on the spot, my first joke...
+
 While torturing the live MC with my _bants_ the kid —just a couple years older than me— complained comically: 
 _Mr. Pickles, you're gonna give me a_ complex!  
 In the moment, I replied: 
@@ -44,7 +45,7 @@ And, ok, now that I write it out, I feel like I copped it from an episode of _Th
 
 ## **Singing and Storytelling:** the US and Abroad  
 
-As I approached my highschool graduation, I qualified to join the Texas All State Choir at about the same time that I planned a trip to India. The decision wasn't difficult.  
+In the approach to my highschool graduation, I qualified to join the Texas All State Choir at about the same time I'd planned a trip to India. The decision wasn't difficult.  
 
 A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a year in our weird little Christian School —while remaining steadfastly Hindu. I and my friends took him under our wing.
 <p>
@@ -55,14 +56,21 @@ A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a ye
 </a>
 </p> 
 On his departure, he invited us to return the visit.  
-I don't know that he expected two of us to take him up on it, but in our senior year my friend <del>[Scott Simpson](////)</del> and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land. Traveling, singing and storytelling, it was my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
+I don't know that he expected two to take him up on it, but in our senior year my friend <p>
+<a href="https://faithfulcrum.com/" target="_blank">
+  <img class="thumb-left"
+       src="{{ "/pix/seasonTwoCharicatures.jpg.jpg" | relative_url }}"
+       alt="Scott Simpson">
+</a>
+</p> 
+
+<del>[Scott Simpson](////)https://faithfulcrum.com/</del> and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land. Traveling, singing and storytelling my way around the subcontinent gav me my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
 
 
 ## **The Boy in the Bands—** an incomplete list 
 
 Before I get to the _Great Band of my Life_ I should mention some others:  
-In South Korea I fronted <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Mister Tickle</a>, a _jazzpunk_ trio of professors from England, Ireland and the US. (BEWARE: SoundCloud deceptively places the "close this" X far to the side of the )
-
+In South Korea I fronted <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Mister Tickle</a>, a _jazzpunk_ trio of professors from England, Ireland and the US. (BEWARE: Sound Cloud deceptively places its "opt out" X deceptively far from the "Sign up!" prompt)
 
 
 
