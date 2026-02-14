@@ -74,14 +74,16 @@ It was the very next year when, as highschool seniors, my good friend Scott Simp
        src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
        alt="faithfulcrum logo">
 </a>
-and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.
+and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.  
+Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to _that larger world I had so coveted_.
 </p>
-Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to _that world I so coveted_.
-
 
 ## **The Boy in the Bands—** an incomplete list 
 
-Before I get to the _Great Band of my Life_ I should mention some others:  
+Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention some others:  
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A356949617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mistertickle" title="MisterTickle" target="_blank" style="color: #cccccc; text-decoration: none;">MisterTickle</a> · <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" title="Elephantiasis Blues" target="_blank" style="color: #cccccc; text-decoration: none;">Elephantiasis Blues</a></div>
+
 In South Korea I fronted <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Mister Tickle</a>, a _jazzpunk_ trio of professors from England, Ireland and the US. (BEWARE: Sound Cloud deceptively places its "opt out" X deceptively far from the "Sign up!" prompt)
 
 
