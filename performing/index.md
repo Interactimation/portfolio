@@ -75,8 +75,7 @@ It was the very next year when, as highschool seniors, my good friend Scott Simp
        alt="faithfulcrum logo">
 </a>
 and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.
-</p> 
-
+</p>
 Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to _that world I so coveted_.
 
 
