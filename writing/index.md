@@ -30,7 +30,7 @@ layout: default
 
 ## **Playwright is a Word,** like wheelwright, shipwright
 
-My very first teaching gig, outside Sunday School, that kind of thing, came in my early 20s at the Johns Hopkins <a href="https://cty.jhu.edu/cty-experience" target="_blank">Center for Talented Youth, or _CTY_</a>, where Junior High and Highschool students take courses for college credit.  
+My very first teaching gig, outside Sunday School, that kind of thing, came in my early 20s at the Johns Hopkins <a href="https://cty.jhu.edu/cty-experience" target="_blank">Center for Talented Youth </a>, or _CTY_, where Junior High and Highschool students take courses for college credit.  
 There I served as Teaching Assistant in _Playwriting_ —which I'd studied at Texas Tech University— and _The Essay_, of which I knew nothing beyond having read _Montaigne_.  
 Nevertheless, I offered solo "units" in each. To date, one of my favorite gigs.  
 
@@ -58,8 +58,7 @@ For more than fifteen years with my <del>[performance "heptet" HOWLOOSEANATION](
        alt="long count poster">
 </a>
 
-I wrote press releases, composed songs, devised scenarios.  
-I penned the libretto for our operetta, <i>The Long Count</i> —this was the show that premiered at the Montreal Fringe in 2007.  
+I wrote press releases, composed songs, devised scenarios, penned the libretto for our operetta, <i>The Long Count</i> —this was the show that premiered at the Montreal Fringe in 2007.  
 I'd been inspired by the (then) approaching end of the Mayan Calendar.  
 My sci-fi premise:
  
@@ -70,12 +69,14 @@ All of which is now, of course, _clearly occurring_!
 
 <br />
 
-## **Journeyman Journalist —** my decade at the DN 
+## **Journeyman Journalist —** my _decade_ at the DN 
 
 During those same years I became sort of _world famous in Lincoln, Nebraska_— a line which has gotten laughs as far away as Seoul, South Korea.  
 When I found out The Rag (affectionate nickname of _The Daily Nebraskan_) actually _paid_, well I was in the office _like a shot_.  
-The Johnny Carson black box theater was spanking new in those days and brought in a metric tons of experimental dance.
-<a href="https://nebnewspapers.unl.edu/lccn/sn96080312/1992-01-20/ed-1/seq-6/" target="_blank">Who wants to be the <i>dance writer</i>?</a> was a question I could only answer with: _Yo._ 
+The Johnny Carson black box theater was spanking new in those days and brought in a metric ton of experimental dance.
+<a href="https://nebnewspapers.unl.edu/lccn/sn96080312/1992-01-20/ed-1/seq-6/" target="_blank"> 
+
+Who wants to be the <i>dance writer</i>?</a> was a question I could only answer with: _Yo._ 
 
 By the end of the decade (part-time student, I worked for a living, y'all. No nepo baby, me!) I'd been a reporter, a section editor, served on the _Publications Board_.  
 I'd  drawn op-ed cartoons, written headlines and generally mentored generations of writers, artists and the many and various ne'er-do-wells and drunkards attracted by the pittance of a remittance.
@@ -85,8 +86,9 @@ I'd  drawn op-ed cartoons, written headlines and generally mentored generations 
 ## **"Studying" Writing is Like** "practicing" surgery  
 
 Perhaps because of this, I was granted some _special dispensation_ to take graduate-level writing courses as an undergrad, at one of the midwest's (then) premier MFA programs.  
-I took <del>[_all_ of them](////)</del>. 
-At some point, inspired by They Might be Giants' _Dial-A-Song_ project, I launched <a href="https://nebnewspapers.unl.edu/lccn/sn96080312/1995-02-20/ed-1/seq-9/" target="_blank">StoryLine,</a> a call-in, storytelling service —new recordings daily— for a full year.  
+I took <del>[_all_ of them](////)</del>.
+
+At some point, inspired by They Might be Giants' _Dial-A-Song_ project, I launched <a href="https://nebnewspapers.unl.edu/lccn/sn96080312/1995-02-20/ed-1/seq-9/" target="_blank">StoryLine,</a> a call-in, storytelling service —new recordings daily, for a full year.  
 
 No lesser light than Allen Ginsberg called in to encourage me in this experiment that definitively built the machine in my brain which spits out pithy prose.  
 To this day, with a little lubrication —_braaaat!_ —out pops a paragraph!   

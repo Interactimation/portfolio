@@ -63,7 +63,7 @@ On his departure, he invited us to return the visit.
 > This, I was eager to do.   
 
 I'd felt, from my earliest days, that the world was mine —that I should _explore_ it. See something of it.  
-No pioneer, me; it was sheer privilege.
+No pioneer, me; it was sheer _privilege_.
 
 But I doubt our friend expected two of us to take him up on the offer, and so _soon_... 
 <p> 
@@ -74,10 +74,10 @@ It was the very next year, when —as highschool seniors— my good friend Scott
        src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
        alt="faithfulcrum logo">
 </a>
-and I spent a couple of the winter months, taking advantage of the Christmas break —and the blessing of our teachers— in that summer-like land.
+and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.
 </p> 
 
-Traveling, singing and storytelling my way around the subcontinent gav me my first sense that these activities, honed in our homey church life, could take me _elsewhere_.
+Traveling, singing and storytelling my way around the subcontinent gave me my first sense that these practices, honed in our homey church life, could take me _to that world_ I so coveted.
 
 
 ## **The Boy in the Bands—** an incomplete list 
