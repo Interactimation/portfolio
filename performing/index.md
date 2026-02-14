@@ -77,7 +77,7 @@ It was the very next year, when —as highschool seniors— my good friend Scott
 and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.
 </p> 
 
-Traveling, singing and storytelling my way around the subcontinent gave me my first sense that these practices, honed in our homey church life, could take me _to that world_ I so coveted.
+Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to _that world I so coveted_.
 
 
 ## **The Boy in the Bands—** an incomplete list 
