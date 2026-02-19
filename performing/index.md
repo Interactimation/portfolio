@@ -97,15 +97,31 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
   </div>
 </div>
 
+### Mister Tickle
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US. We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari,</i></a> —in Korea, a kind of "iron eating, unkillable monster!"
 
+<div class="sc-wrap">
+  <iframe 
+    scrolling="no" 
+    frameborder="no" 
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A356949617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+  </iframe>
+
+  <div class="sc-meta">
+    <a href="https://soundcloud.com/mistertickle" target="_blank">MisterTickle</a> ·
+    <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Elephantiasis Blues</a>
+  </div>
+</div>
 
 
+<div class="sc-wrap">
+<iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A226465430&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-
-
-
-
+ <div class="sc-meta">
+    <a href="https://soundcloud.com/aliceunderglass" target="_blank">aliceUnderglass</a> · <a href="https://soundcloud.com/aliceunderglass/join-the-dance-no-such-place-as-america" target="_blank">Join the Dance</a>
+  </div>
+</div>
 
 
 
