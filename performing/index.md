@@ -100,7 +100,8 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
 
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US.  
 We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron eating and entirely _unkillable_ monster.
-
+<br />
+<br />
 
 ### Alice in Oz 
 <div class="sc-wrap">
@@ -112,7 +113,8 @@ We produced songs and performances appealing to the international _avant-garde_ 
 </div>
 
 In 2015, through Australian arts organization _In Lak'esh,_ I was awarded an Artist's Residency Uniting Church, Katoomba, NSW, Australia. There, on the newly restored, century old pipe organ, I composed music for _Alice in Wonderland_.  
-Joined by long-time collaborator Skye Evans, on double bass and backup vocals, I visited Alice upon Oz in a thunderous manner!  
+Joined by long-time collaborator Skye Evans, on double bass and backup vocals, I visited Alice upon Oz in a thunderous manner! The audience was filled with children, some of whom you can hear clapping along...  
+I should note that the story Skye tells to introduce the encore, _No Such Place as America_, is entirely true in all its particulars. 
 
   
 
