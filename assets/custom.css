@@ -135,7 +135,7 @@ del {
 /* sound cloud rap */
 
 .sc-wrap {
-  float: right;          /* or left */
+  float: left;          /* or right*/
   width: 25%;
   margin: 0 0 1em 1.5em; /* space between player and text */
 }
