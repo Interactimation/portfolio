@@ -75,7 +75,8 @@ It was the very next year when, as highschool seniors, my good friend Scott Simp
 and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.  
 Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to <i>that larger world I had so coveted.</i>
 <br />
-Scott and I remained lifelong friends and, our spiritual and religious paths haven taken very different turns, have found in recent years that we share much in common. In that ecumenical spirit, we co-create a biweekly podcast, FaithFulcrum. 
+<br />
+Scott and I remained lifelong friends and —our spiritual and religious paths having taken very different turns— discovered in recent years that we share much in common. In that open spirit, we co-create a biweekly podcast, <i>FaithFulcrum</i>. 
 </p>
 
 ## **The Boy in the Bands—** an incomplete list 
@@ -96,7 +97,7 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
   </div>
 </div>
 
-In South Korea I fronted Mister Tickle, a _jazzpunk_ trio of professors from England, Ireland and the US. Popular with expats living in and around Seoul, we produced songs about  
+In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US. We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari,</i></a> —in Korea, a kind of "iron eating, unkillable monster!"
 
 
 
