@@ -83,7 +83,7 @@ Scott and I remained lifelong friends and —our spiritual and religious paths h
 
 Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention some others:  
 
-<!--Mister Tickle-->
+### Mister Tickle
 <div class="sc-wrap">
   <iframe 
     scrolling="no" 
@@ -98,11 +98,9 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
   </div>
 </div>
 
-### Mister Tickle
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US. We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari,</i></a> —in Korea, a kind of "iron eating, unkillable monster!"
 
-<!--Alice Under Glass-->
-
+### Alice in Oz 
 <div class="sc-wrap">
 <iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A226465430&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -110,8 +108,6 @@ In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of pro
     <a href="https://soundcloud.com/aliceunderglass" target="_blank">aliceUnderglass</a> · <a href="https://soundcloud.com/aliceunderglass/join-the-dance-no-such-place-as-america" target="_blank">Join the Dance</a>
   </div>
 </div>
-
-### Alice in Oz 
 
 In 2015, through Australian arts organization _In Lak'esh,_ I was awarded an Artist's Residency Uniting Church, Katoomba, NSW, Australia. There, on the newly restored, century old pipe organ, I composed music for _Alice in Wonderland_.  
 Joined by long-time collaborator Skye Evans, on double bass and backup vocals, I visited Alice upon Oz in a thunderous manner!  
