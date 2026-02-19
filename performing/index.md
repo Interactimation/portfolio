@@ -98,7 +98,8 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
   </div>
 </div>
 
-In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US. We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari,</i></a> —in Korea, a kind of "iron eating, unkillable monster!"
+In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US. We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari,</i></a> —which, in Korean folklore, is a kind of iron eating, _unkillable_ monster.
+
 
 ### Alice in Oz 
 <div class="sc-wrap">
