@@ -131,3 +131,23 @@ del {
   max-width: 120px;
   margin: 0 1em 0.5em 0;
 }
+
+/* sound cloud rap */
+
+.sc-wrap {
+  float: right;          /* or left */
+  width: 25%;
+  margin: 0 0 1em 1.5em; /* space between player and text */
+}
+
+.sc-wrap iframe {
+  width: 100%;
+}
+
+.sc-meta {
+  font-size: 10px;
+  color: #cccccc;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

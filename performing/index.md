@@ -30,22 +30,22 @@ layout: default
 
 ## **Where Writing and Making Meet** is in Performance, my oldest practice
 
-Raised by shape note singers, in a fundamentalist and very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading _a cappella_ singing (in four part harmony) for which our sect is justly famous...  
+Raised by shape note singers, in a fundamentalist and very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading the _a cappella_ singing (in four part harmony) for which our sect is justly famous...  
 Or, a favorite, as part of the _puppet ministry_ of Vacation Bible School, I have been, all unseen, before audiences since I was in short pants.   
 
 As a puppeteer (naming my alter ego _Melvin J. Pickles_) I learned to improvise. It was in this persona that I devised, on the spot, my first joke...
 
-While torturing the live MC with my _bants_ the kid —just a couple years older than me— complained comically: 
+While torturing the live MC with my _bants_, the kid —just a couple years older than me— complained comically: 
 _Mr. Pickles, you're gonna give me a_ complex!  
 In the moment, I replied: 
 
-> Aw, you're too _simple_ to have a _complex_! 
+> Aw, you're too simple to have a complex! 
 
 And, ok, now that I write it out, I feel like I copped it from an episode of _The Jeffersons_, but what a moment! It _sold_ me. I'd _paralyzed_ the guy!
 
 ## **Singing and Storytelling:** the US and Abroad  
 
-In the approach to my highschool graduation, I qualified to join the Texas All State Choir at about the same time I'd planned a trip to India. The decision wasn't difficult.  
+In the approach to my highschool graduation, I qualified to join the Texas All State Choir at about the same time I'd planned a trip to India. The choice wasn't difficult.  
 
 A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a year in our weird little Christian School —while remaining steadfastly Hindu. 
 
@@ -57,13 +57,11 @@ A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a ye
 </a>
 </p> 
 
-I and my friends welcomed him, had him for sleepovers, to dinner in our homes. We took an interest in our visitor from the far side of the globe!  
-On his departure, he invited us to return the visit.
+I and my friends were keenly interested in him, had him for sleepovers, to dinner in our homes. We became friends and, on his departure, he invited us to return the visit.
   
 > This, I was eager to do.   
 
-I'd felt, from my earliest days, that the world was mine —that I should _explore_ it. See something of it.  
-No pioneer, me; it was sheer _privilege_.
+I'd felt, from my earliest days, that the world was mine, belonged to me —that I should _explore_ it. See something of it. No pioneer, me; it was sheer _privilege_.
 
 But I doubt our friend expected two of us to take him up on the offer, and so _soon_... 
 <p> 
@@ -82,7 +80,19 @@ Traveling, singing and storytelling our way around the subcontinent gave me perh
 
 Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention some others:  
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A356949617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mistertickle" title="MisterTickle" target="_blank" style="color: #cccccc; text-decoration: none;">MisterTickle</a> · <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" title="Elephantiasis Blues" target="_blank" style="color: #cccccc; text-decoration: none;">Elephantiasis Blues</a></div>
+<div class="sc-wrap">
+  <iframe 
+    scrolling="no" 
+    frameborder="no" 
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A356949617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+  </iframe>
+
+  <div class="sc-meta">
+    <a href="https://soundcloud.com/mistertickle" target="_blank">MisterTickle</a> ·
+    <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Elephantiasis Blues</a>
+  </div>
+</div>
 
 In South Korea I fronted <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Mister Tickle</a>, a _jazzpunk_ trio of professors from England, Ireland and the US. (BEWARE: Sound Cloud deceptively places its "opt out" X deceptively far from the "Sign up!" prompt)
 
