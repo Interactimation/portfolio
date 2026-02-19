@@ -137,7 +137,7 @@ del {
 .sc-wrap {
   float: left;          /* or right*/
   width: 25%;
-  margin: 0 0 1em 1.5em; /* space between player and text */
+  margin: 0 12m 1em 0em; /* space between player and text */
 }
 
 .sc-wrap iframe {

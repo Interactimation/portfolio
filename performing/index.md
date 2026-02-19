@@ -94,8 +94,7 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
   </div>
 </div>
 
-In South Korea I fronted Mister Tickle, a _jazzpunk_ trio of professors from England, Ireland and the US. (BEWARE: Sound Cloud deceptively places its "opt out" X deceptively far from the "Sign up!" prompt)
-
+In South Korea I fronted Mister Tickle, a _jazzpunk_ trio of professors from England, Ireland and the US. Popular with expats living in and around Seoul, we produced songs about  
 
 
 
