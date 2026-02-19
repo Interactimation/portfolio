@@ -87,6 +87,11 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
     allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A356949617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
   </iframe>
+
+  <div class="sc-meta">
+    <a href="https://soundcloud.com/mistertickle" target="_blank">MisterTickle</a> ·
+    <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Elephantiasis Blues</a>
+  </div>
 </div>
 
 In South Korea I fronted Mister Tickle, a _jazzpunk_ trio of professors from England, Ireland and the US. (BEWARE: Sound Cloud deceptively places its "opt out" X deceptively far from the "Sign up!" prompt)
