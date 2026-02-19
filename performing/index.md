@@ -75,6 +75,7 @@ It was the very next year when, as highschool seniors, my good friend Scott Simp
 and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.  
 Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to <i>that larger world I had so coveted</i>
 <br />
+<br />
 </p>
 
 ## **The Boy in the Bands—** an incomplete list 
