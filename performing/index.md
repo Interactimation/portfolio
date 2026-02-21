@@ -81,7 +81,9 @@ Scott and I remained lifelong friends and —our spiritual and religious paths h
 
 ## **The Boy in the Bands—** an incomplete list 
 
-Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention some others:  
+Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention some others.  
+
+> NOTE: Sound Cloud appears to expect files compressed within an inch of their lives and normalized _right up to the red_. As I prefer what I like to call _Dymanic Range_ I urge the listener to crank the vol on the following embeds!
 
 ### Mister Tickle
 <div class="sc-wrap">
@@ -95,7 +97,7 @@ Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention som
   <div class="sc-meta">
     <a href="https://soundcloud.com/mistertickle" target="_blank">MisterTickle</a> ·
     <a href="https://soundcloud.com/mistertickle/elephantiasis_blues" target="_blank">Elephantiasis Blues</a>
-  </div>
+  </div
 </div>
 
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US.  
@@ -129,7 +131,7 @@ I should note that the story Skye tells to introduce the encore, _No Such Place 
   </div>
 </div>
 
-I met Rope Smokin Roy —as a matter of course— in a little bar in Little Falls, NY I called _Frank & Beans_, tho it had another name. We hit it off over our shared love of Bluegrass and _mountain music_.  
+I met Rope Smokin Roy —as a matter of course— in a little bar in Little Falls, NY. We hit it off over our shared love of Bluegrass and _mountain music_.  
 When he learned I'd been teaching myself to play the banjo, he recruited me, _note unheard_, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank"><i>play in his band</i></a> (that's me, on the trunk) in his upcoming, inaugural, _Bluegrass, Bikes and BBQ_ festival.  
 Which I did.  
 
