@@ -103,7 +103,7 @@ Before I get to the [_Great Band of my Life_](#howlooseanation), I should mentio
 
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US.  
 We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron eating and entirely _unkillable_ monster.  
-We were a rough, hard drinking bunch. It took me at least a year to recover!
+We were a rough, hard drinking bunch. It took me a full year to recover!
 
 ### Alice in Oz 
 <div class="sc-wrap">
@@ -139,9 +139,10 @@ Which I did.
 Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
 What you'll hear at the link is my attempt to spin off a studio version of the same sort, during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win State Champion in marching band, Texas Association of Private and Parochial Schools (TAPPS) in 1983.  
 
-Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer. Today I consider the songs I produce like collections of soiled rags, waved about like crummy puppets. I learned to stitch so loosely, as creative director for:
+Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer. Today I consider the songs I produce as collections of soiled rags, hastily wadded and waved about like crummy puppets. I had learned to stitch so loosely as creative director for:
 
-### HOWLOOSEANATION, the band that made me what I am {: #howlooseanation }
+### HOWLOOSEANATION, the band that made me what I am 
+{: #howlooseanation }
 
 I spent 15 years as Artistic Director with this ever-changing _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer as well as long time patron of the arts.  
 Over the years we welcomed more than 20 performers into our ranks, all still lifelong members.  
