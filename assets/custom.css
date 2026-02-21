@@ -21,7 +21,6 @@ html {
   padding: 1.5em;
 }
 
-
 /* link details */
 a:link    { color: #8abca0; }
 a:visited { color: #a1bedc; }
@@ -29,17 +28,16 @@ a:hover   { color: #c7d3e0; }
 a { text-decoration: underline; }
 
 /* strike-thru color */
-
 del {
   text-decoration-color: #d883e1;
 }
 
 /* style text */
-
 .markdown-body {
   font-size: 110%;
   font-family: "Trebuchet MS", Trebuchet, Arial, sans-serif;
    line-height: 1.4;
+   color: #8aa3bc
 }
 
 /* headings 1–5 share font */
@@ -81,14 +79,12 @@ del {
 }
 
 /* <b> is bigger and different color */
-
 .markdown-body strong {
   font-size: 105%;
   color: #a1bedc;
 }
 
 /* <hr> is thinner and different color */
-
 .markdown-body hr {
   height: 0.3px;
   background-color: #FF0000;
