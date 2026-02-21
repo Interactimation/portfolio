@@ -105,7 +105,8 @@ We produced songs and performances appealing to the international _avant-garde_ 
 
 ### Alice in Oz 
 <div class="sc-wrap">
-<iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A226465430&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A226465430&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+</iframe>
 
  <div class="sc-meta">
     <a href="https://soundcloud.com/aliceunderglass" target="_blank">aliceUnderglass</a> · <a href="https://soundcloud.com/aliceunderglass/join-the-dance-no-such-place-as-america" target="_blank">Join the Dance</a>
@@ -122,10 +123,10 @@ I should note that the story Skye tells to introduce the encore, _No Such Place 
 <div class="sc-wrap">
 <iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A520911621&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
  </iframe>
+
  <div class="sc-meta">
     <a href="https://soundcloud.com/rollfastrecords" target="_blank">Rollfast Records</a> · <a href="https://soundcloud.com/rollfastrecords/turingtestament" target="_blank">Turing Testament</a>
   </div>
- 
 </div>
 
 I met Rope Smokin Roy —as a matter of course— in a little bar in Little Falls, NY I called _Frank & Beans_, tho it had another name. We hit it off over our shared love of Bluegrass and _mountain music_.  
