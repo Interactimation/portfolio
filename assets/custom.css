@@ -43,13 +43,26 @@ del {
 }
 
 /* headings 1–5 share font */
-.markdown-body h1 {font-size: 160%;font-family: "Times New Roman", Times, serif;}
-.markdown-body h2,
+.markdown-body h1 {font-size: 160%; font-family: "Times New Roman", Times, serif;}
+.markdown-body h2 {font-size: 140%; font-family: "Times New Roman", Times, serif;}
 .markdown-body h3,
 .markdown-body h4,
-.markdown-body h5 {
-  font-size: 160%;
-  font-family: "Times New Roman", Times, serif;
+.markdown-body h5 
+ 
+
+/* h6 as HOME link */
+.markdown-body h6 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffe4e1 !important;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.markdown-body h6 a,
+.markdown-body h6 a:hover,
+.markdown-body h6 a:visited {
+  color: #ffe4e1;
 }
 
 /* kill underline rules on h1/h2 */
@@ -80,21 +93,6 @@ del {
   height: 0.3px;
   background-color: #FF0000;
   border: none;
-}
-
-/* h6 as HOME link */
-.markdown-body h6 {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #ffe4e1 !important;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.markdown-body h6 a,
-.markdown-body h6 a:hover,
-.markdown-body h6 a:visited {
-  color: #ffe4e1;
 }
 
 /* card layout for image gallery */
