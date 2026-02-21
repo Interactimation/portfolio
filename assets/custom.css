@@ -40,12 +40,25 @@ del {
    color: #8aa3bc
 }
 
-/* headings 1–5 share font */
-.markdown-body h1 {font-size: 160%; font-family: "Times New Roman", Times, serif;}
-.markdown-body h2 {font-size: 140%; font-family: "Times New Roman", Times, serif;}
+/* headings 1 and 2 */
+.markdown-body h1 {
+  font-size: 160%;
+  color: inherit;                           /* same as body text */
+}
+
+.markdown-body h2 {
+  font-size: 140%;
+  font-family: "Times New Roman", Times, serif;
+  color: inherit;
+}
+
+/* h3–h5: keep their default header sizes, but use the Times font + same color */
 .markdown-body h3,
 .markdown-body h4,
-.markdown-body h5 
+.markdown-body h5 {
+  font-family: "Times New Roman", Times, serif;
+  color: inherit;
+}
  
 
 /* h6 as HOME link */
