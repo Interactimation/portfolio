@@ -141,7 +141,8 @@ What you'll hear at the link is my attempt to spin off a studio version of the s
 
 Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer. Today I consider the songs I produce as collections of soiled rags, hastily wadded and waved about like crummy puppets. I had learned to stitch so loosely as creative director for:
 
-### HOWLOOSEANATION, the band that made me what I am {: #howlooseanation }
+### HOWLOOSEANATION, the band that made me what I am
+{: #howlooseanation }
 
 I spent 15 years as Artistic Director with this ever-changing _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer as well as long time patron of the arts.  
 Over the years we welcomed more than 20 performers into our ranks, all still lifelong members.  
