@@ -131,7 +131,9 @@ I met Rope Smokin Roy, as a matter of course, in a little bar I called Frank & B
 Which I did.  
 
 Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
-What you'll hear at the link is my attempt to spin off a studio version of the same sort of thing during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool to win state the championship in marching band, Texas Association of Private and Parochial Schools, 1983.   
+What you'll hear at the link is my attempt to spin off a studio version of the same sort of thing during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool to win state the championship in marching band, Texas Association of Private and Parochial Schools, 1983.  
+
+Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer.
 
 
 
