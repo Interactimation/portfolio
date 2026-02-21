@@ -43,6 +43,7 @@ del {
 /* headings 1 and 2 */
 .markdown-body h1 {
   font-size: 160%;
+  font-family: "Times New Roman", Times, serif;
   color: inherit;                           /* same as body text */
 }
 
@@ -56,7 +57,6 @@ del {
 .markdown-body h3,
 .markdown-body h4,
 .markdown-body h5 {
-  font-family: "Times New Roman", Times, serif;
   color: inherit;
 }
  
