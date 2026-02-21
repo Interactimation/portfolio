@@ -81,7 +81,7 @@ Scott and I remained lifelong friends and —our spiritual and religious paths h
 
 ## **The Boy in the Bands—** an incomplete list 
 
-Before I get to the [_Great Band of my Life_](#howlooseanation), I should mention some others.  
+Before I get to the [_Great Band of my Life_](#howlooseanation), I should mention a handful of others, from a dozen examples.  
 
 > NOTE: Sound Cloud appears to expect files compressed within an inch of their lives and normalized _right up to the red_. As I prefer what I like to call _Dymanic Range_ I urge the listener to crank the vol on the following embeds!
 
@@ -102,9 +102,8 @@ Before I get to the [_Great Band of my Life_](#howlooseanation), I should mentio
 </div>
 
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US.  
-We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron eating and entirely _unkillable_ monster.
-<br />
-<br />
+We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron eating and entirely _unkillable_ monster.  
+We were a rough, hard drinking bunch. It took me years to recover!
 
 ### Alice in Oz 
 <div class="sc-wrap">
