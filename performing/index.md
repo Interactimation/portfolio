@@ -81,7 +81,7 @@ Scott and I remained lifelong friends and —our spiritual and religious paths h
 
 ## **The Boy in the Bands—** an incomplete list 
 
-Before I get to the <del>[_Great Band of my Life_]()</del>, I should mention some others.  
+Before I get to the [_Great Band of my Life_](#howlooseanation), I should mention some others.  
 
 > NOTE: Sound Cloud appears to expect files compressed within an inch of their lives and normalized _right up to the red_. As I prefer what I like to call _Dymanic Range_ I urge the listener to crank the vol on the following embeds!
 
@@ -131,18 +131,23 @@ I should note that the story Skye tells to introduce the encore, _No Such Place 
   </div>
 </div>
 
-I met Rope Smokin Roy —as a matter of course— in a little bar in Little Falls, NY. We hit it off over our shared love of Bluegrass and _mountain music_.  
-When he learned I'd been teaching myself to play the banjo, he recruited me, _note unheard_, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank"><i>play in his band</i></a> (that's me, on the trunk) in his upcoming, inaugural, _Bluegrass, Bikes and BBQ_ festival.  
+I met Rope Smokin Roy —as a matter of course— in a little bar in Little Falls, NY. We hit it off over a shared love of Bluegrass and _mountain music_.  
+When he learned I'd been teaching myself to play the banjo, he recruited me, _note unheard_, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank">play in his band</a> (that's me, on the trunk) in his upcoming, inaugural, _Bluegrass, Bikes and BBQ_ festival.  
 Which I did.  
 
 Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
-What you'll hear at the link is my attempt to spin off a studio version of the same sort during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win state champions in marching band, Texas Association of Private and Parochial Schools (TAPPS) in 1983.  
+What you'll hear at the link is my attempt to spin off a studio version of the same sort, during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win State Champion in marching band, Texas Association of Private and Parochial Schools (TAPPS) in 1983.  
 
-Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer.
+Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer. Today I consider the songs I produce like collections of soiled rags, waved about like crummy puppets. I learned to stitch so loosely, as creative director for:
 
-## HOWLOOSEANATION
+### HOWLOOSEANATION, the band that made me what I am {: #howlooseanation }
 
-I spent 15 years with this ever-changing group, a _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer as well as long time patron of the arts.  
+I spent 15 years as Artistic Director with this ever-changing _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer as well as long time patron of the arts.  
+Over the years we welcomed more than 20 performers into our ranks, all still lifelong members.  
+We composed and performed for television (NETV's documentary <del>[_Torn Notebook_](////)</del>, on the life and work of Claes Oldenburg), devised theatrical events with participation by The Flaming Cupcakes (Lincoln, Nebraska's notorious drag ensemble), Presented, live, a new score for the classic of silent cinema _Der Golem_ (1920).  
+Our final show, _The Long Count_ premiered at the Montreal Fringe in 2007. 
+
+## **From The Stage**, music for live theatre  
 
 
 
