@@ -135,6 +135,14 @@ What you'll hear at the link is my attempt to spin off a studio version of the s
 
 Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer.
 
+## HOWLOOSEANATION
+
+I spent 15 years with this ever-changing group, a _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer as well as long time patron of the arts.  
+
+
+
+
+
 
 
 
