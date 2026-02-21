@@ -105,7 +105,7 @@ In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of pro
 We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron eating and entirely _unkillable_ monster.  
 We were a rough, hard drinking bunch. It took me a full year to recover!
 
-### Alice in Oz 
+### **Alice in Oz** 
 <div class="sc-wrap">
 <iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A226465430&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
 </iframe>
@@ -121,7 +121,7 @@ Joined by long-time collaborator Skye Evans, on double bass and backup vocals, I
 I should note that the story Skye tells to introduce the encore, _No Such Place as America_, is entirely true in all its particulars. 
 
 
-### Rope Smokin' Roy the Hair Farmer & his Orphans of the Storm Band
+### **Rope Smokin' Roy the Hair Farmer** & his Orphans of the Storm Band
 
 <div class="sc-wrap">
 <iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A520911621&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
