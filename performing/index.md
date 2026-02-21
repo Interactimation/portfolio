@@ -103,7 +103,7 @@ Before I get to the [_Great Band of my Life_](#howlooseanation), I should mentio
 
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US.  
 We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron eating and entirely _unkillable_ monster.  
-We were a rough, hard drinking bunch. It took me years to recover!
+We were a rough, hard drinking bunch. It took me at least a year to recover!
 
 ### Alice in Oz 
 <div class="sc-wrap">
