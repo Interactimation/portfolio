@@ -28,9 +28,9 @@ layout: default
 
 ###### [home]({{ "/" | relative_url }})
 
-## **Where Writing and Making Meet** is in Performance, my oldest practice
+## **Writing and Making Meet in Performance**, my oldest practice
 
-Raised by shape note singers, in a fundamentalist and very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading the _a cappella_ singing (in four part harmony) for which our sect is justly famous...  
+Raised among <a href="https://www.loc.gov/collections/songs-of-america/articles-and-essays/musical-styles/ritual-and-worship/shape-note-singing/" target="_blank"><i>shape note singers</i></a>, in a fundamentalist and very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading the _a cappella_ singing (in four part harmony) for which our sect is justly famous...  
 Or, a favorite, as part of the _puppet ministry_ of Vacation Bible School, I have been, all unseen, before audiences since I was in short pants.   
 
 As a puppeteer (naming my alter ego _Melvin J. Pickles_) I learned to improvise. It was in this persona that I devised, on the spot, my first joke...
@@ -41,7 +41,7 @@ In the moment, I replied:
 
 > Aw, you're too simple to have a complex! 
 
-And, ok, now that I write it out, I feel like I copped it from an episode of _The Jeffersons_, but what a moment! It _sold_ me. I'd _paralyzed_ the guy!
+And, ok, now that I write it out, I feel like I copped it from an episode of _The Jeffersons_... But what a moment! It _sold_ me. I'd _paralyzed_ the guy!
 
 ## **Singing and Storytelling:** the US and Abroad  
 
@@ -57,11 +57,11 @@ A couple years earlier, an exchange student from _Andhra Pradesh_ had spent a ye
 </a>
 </p> 
 
-I and my friends were keenly interested in him, had him for sleepovers, to dinner in our homes. We became friends and, on his departure, he invited us to return the visit.
+I and my friends were keenly interested in our visitor, had him for sleepovers, to dinner in our homes. We became friends and, on his departure, he invited us to return the visit.
   
 > This, I was eager to do.   
 
-I'd felt, from my earliest days, that the world was mine, belonged to me —that I should _explore_ it. See something of it. No pioneer, me; it was sheer _privilege_.
+I'd felt, from my earliest days, that the world was mine, belonged, personally, to me —that I should _explore_ it. See something of it. No pioneer, me; this was sheer _privilege_.
 
 But I doubt our friend expected two of us to take him up on the offer, and so _soon_... 
 <p> 
@@ -116,7 +116,24 @@ In 2015, through Australian arts organization _In Lak'esh,_ I was awarded an Art
 Joined by long-time collaborator Skye Evans, on double bass and backup vocals, I visited Alice upon Oz in a thunderous manner! The audience was filled with children, some of whom you can hear clapping along...  
 I should note that the story Skye tells to introduce the encore, _No Such Place as America_, is entirely true in all its particulars. 
 
-  
+
+### Rope Smokin' Roy the Hair Farmer & his Orphans of the Storm Band
+
+<div class="sc-wrap">
+<iframe scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A520911621&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+
+ <div class="sc-meta">
+    <a href="https://soundcloud.com/rollfastrecords" target="_blank">Rollfast Records</a> · <a href="https://soundcloud.com/rollfastrecords/turingtestament" target="_blank">Turing Testament</a>
+  </div>
+</div>
+
+I met Rope Smokin Roy, as a matter of course, in a little bar I called Frank & Beans, tho it had another name. We hit it off over our love of Bluegrass. When he learned I'd been teaching myself to play the banjo, he recruited me, note unheard, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank"><i>play in his band</i></a> (that's me, on the trunk) in his upcoming, inaugural, Bluegrass, Bikes and BBQ festival.  
+Which I did.  
+
+Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
+What you'll hear at the link is my attempt to spin off a studio version of the same sort of thing during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool to win state the championship in marching band, Texas Association of Private and Parochial Schools, 1983.   
+
+
 
 
 
