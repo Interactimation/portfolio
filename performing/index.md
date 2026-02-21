@@ -127,11 +127,12 @@ I should note that the story Skye tells to introduce the encore, _No Such Place 
   </div>
 </div>
 
-I met Rope Smokin Roy, as a matter of course, in a little bar I called Frank & Beans, tho it had another name. We hit it off over our love of Bluegrass. When he learned I'd been teaching myself to play the banjo, he recruited me, note unheard, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank"><i>play in his band</i></a> (that's me, on the trunk) in his upcoming, inaugural, Bluegrass, Bikes and BBQ festival.  
+I met Rope Smokin Roy —as a matter of course— in a little bar in Little Falls, NY I called _Frank & Beans_, tho it had another name. We hit it off over our shared love of Bluegrass and _mountain music_.  
+When he learned I'd been teaching myself to play the banjo, he recruited me, _note unheard_, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank"><i>play in his band</i></a> (that's me, on the trunk) in his upcoming, inaugural, _Bluegrass, Bikes and BBQ_ festival.  
 Which I did.  
 
 Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
-What you'll hear at the link is my attempt to spin off a studio version of the same sort of thing during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool to win state the championship in marching band, Texas Association of Private and Parochial Schools, 1983.  
+What you'll hear at the link is my attempt to spin off a studio version of the same sort during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win state champions in marching band, Texas Association of Private and Parochial Schools (TAPPS) in 1983.  
 
 Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer.
 
