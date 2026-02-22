@@ -159,6 +159,3 @@ Folks, I give you: [_Poop Deck Pappy!_](SailormanEp001.pdf)
 <hr />
 
 ###### [home]({{ "/" | relative_url }})
-
-
-

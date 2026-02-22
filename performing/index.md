@@ -178,17 +178,8 @@ It was also for Paul that I first scored _Alice in Wonderland_, a show in which 
 <a href="https://www.instagram.com/donkyprince/?hl=en" target="_blank">This is the video</a>, produced on analog tape-to-tape, with which I applied to SAIC.  
 It features HOLOOSEANATION and my theatrical work pretty heavily...
 
-
-
-
 <br />
 
-<br />
+<hr />
 
-<br />
-
-<br />
-
-////
-It was my extra-curricular work with HOWLOOSEANATION, however, that saw me enrolled, early in the 21st Century, at the (then) premier Arts Grad Program in the nation, The School of the Art Institute of Chicago, as a _Performance Artist_.  
-Once there, I immediately switched to _Art and Tech_... Though I managed to retain student work in both programs, graduating  with the "Leadership Award."
+###### [home]({{ "/" | relative_url }})
