@@ -140,9 +140,11 @@ When he learned I'd been teaching myself to play the banjo, he recruited me, _no
 Which I did.  
 
 Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
-What you'll hear at the link is my attempt to spin off a studio version of the same sort, during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win State Champion in marching band, Texas Association of Private and Parochial Schools (TAPPS) in 1983.  
+What you'll hear at the link is my attempt to spin off a studio version of the same sort, during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win State Champion in Marching Band, Texas Association of Private and Parochial Schools (TAPPS), 1983.  
 
-Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer. Today I consider the songs I produce as collections of soiled rags, hastily wadded and waved about like crummy puppets. I had learned to stitch so loosely as creative director for:
+Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer. Today I consider the songs I produce as collections of soiled rags, hastily wadded and waved about like crummy puppets.
+
+I had learned to stitch so loosely during my time as creative director for:
 
 {: #howlooseanation }
 
@@ -158,12 +160,26 @@ I used to say if I went in to our weekly rehearsal with the notion that I'd neve
 
 We composed and performed for television (NETV's documentary <del>[_Torn Notebook_](////)</del>, on the life and work of Claes Oldenburg), devised theatrical events with participation by The Flaming Cupcakes (Lincoln, Nebraska's notorious drag ensemble), Presented, live, a new score for the classic of silent cinema _Der Golem_ (1920) and wrote and performed an Ecumenical Requiem. 
 
-Our final show, _The Long Count_ premiered at the Montreal Fringe in 2007, after I'd graduated from The School of the Art Institute of Chicago and I've no doubt that my work with this fertile and liberating ensemble was a strong part of how I got accepted in the program in the first place —entering in Performance Art before switching to Art and Tech.  
-Well, it must have been HOWLOOSEANATION and the theatrical work that began to spin out from that.  
+Our final show, _The Long Count_ premiered at the Montreal Fringe in 2007, after I'd graduated from The School of the Art Institute of Chicago (with _Leadership_ Award) and I've no doubt that my work with this fertile and liberating ensemble was an important part of my accepted in the program in the first place —entering in _Performance Art_ before switching to _Art and Tech_, working in _VR_.  
+Well, it must have been partly HOWLOOSEANATION and partly the theatrical work that began to spin out from that.  
 
 ## **From The Stage**, music for live theatre  
 
-I and Skye (Susane, in those days) Evans, opened the first theatre in Wyuka Cemetery and I performed in what would evolve into Flatwater Shakepeare's  
+I and Skye (Susane, in those days) Evans, opened the first theatre in Wyuka Cemetery and I performed in what would evolve into <a href="https://www.flatwatershakespeare.org/" target="_blank">Flatwater Shakespeare Company</a>.  
+Under the direction of <a href="https://www.flatwatershakespeare.org/" target="_blank">Bob Hall</a> I produced all the music for _Twelfth Night_ and delivered it from stage and even rooftop, in character as Feste the Fool, at the venue now known as <a href="https://www.wyuka.com/wyuka-stables/" target="_blank">Wyuka Stables</a>.  
+
+Thus began a dense four year period of composing and performing music for theatre, and almost always _from the stage_.
+
+I did _Hamlet_, Kafka's _Metamorphosis_. 
+
+Under the direction of the late-great <a href="https://www.legacy.com/us/obituaries/journalstar/name/paul-pearson-obituary?id=55420698" target="_blank">Paul Pearson</a>, I sat out there night after night at the grand piano watching _The Little Prince_ unfold once more. That show won a state competition and launched the international circus career of <a href="https://www.instagram.com/donkyprince/?hl=en" target="_blank">Colin "Donkeyboy" Creveling</a>. 
+It was also for Paul that I first scored _Alice in Wonderland_, a show in which I spent the entire run perched atop a gazebo. 
+
+<a href="https://www.instagram.com/donkyprince/?hl=en" target="_blank">This is the video</a>, produced on analog tape-to-tape, with which I applied to SAIC.  
+It features HOLOOSEANATION and my theatrical work pretty heavily...
+
+
+
 
 <br />
 
