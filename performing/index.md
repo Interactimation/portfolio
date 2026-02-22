@@ -144,16 +144,26 @@ What you'll hear at the link is my attempt to spin off a studio version of the s
 
 Somehow recording at home, alone, eventually pushed me into less public and more private places as a performer. Today I consider the songs I produce as collections of soiled rags, hastily wadded and waved about like crummy puppets. I had learned to stitch so loosely as creative director for:
 
-### **HOWLOOSEANATION**, the band that made me what I am
-
 {: #howlooseanation }
 
-I spent 15 years as Artistic Director with this ever-changing _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer as well as long time patron of the arts.  
-Over the years we welcomed more than 20 performers into our ranks, all still lifelong members.  
-We composed and performed for television (NETV's documentary <del>[_Torn Notebook_](////)</del>, on the life and work of Claes Oldenburg), devised theatrical events with participation by The Flaming Cupcakes (Lincoln, Nebraska's notorious drag ensemble), Presented, live, a new score for the classic of silent cinema _Der Golem_ (1920).  
-Our final show, _The Long Count_ premiered at the Montreal Fringe in 2007.
+### **HOWLOOSEANATION**, the band that made me what I am
+
+I spent 15 years as Artistic Director with this ever-changing _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer and lifelong patron of the arts.  
+Over the years we welcomed more than 20 performers into our ranks, all made lifetime members.  
+
+When we wanted a laser show, I bought 100 keychain laser pointers and released them to the audience. We used black light effects, puppets, costumes, video projection mapping.  
+Employed dancers, collaborated with visual artists, comedians, cantors.  
+
+I used to say if I went in to our weekly rehearsal with the notion that I'd never play another note, but just wrap myself in plastic sheeting and writhe around onstage, every member of the group would have thought for a moment and responded: _Sounds cool._
+
+We composed and performed for television (NETV's documentary <del>[_Torn Notebook_](////)</del>, on the life and work of Claes Oldenburg), devised theatrical events with participation by The Flaming Cupcakes (Lincoln, Nebraska's notorious drag ensemble), Presented, live, a new score for the classic of silent cinema _Der Golem_ (1920) and wrote and performed an Ecumenical Requiem. 
+
+Our final show, _The Long Count_ premiered at the Montreal Fringe in 2007, after I'd graduated from The School of the Art Institute of Chicago and I've no doubt that my work with this fertile and liberating ensemble was a strong part of how I got accepted in the program in the first place —entering in Performance Art before switching to Art and Tech.  
+Well, it must have been HOWLOOSEANATION and the theatrical work that began to spin out from that.  
 
 ## **From The Stage**, music for live theatre  
+
+I and Skye (Susane, in those days) Evans, opened the first theatre in Wyuka Cemetery and I performed in what would evolve into Flatwater Shakepeare's  
 
 <br />
 
