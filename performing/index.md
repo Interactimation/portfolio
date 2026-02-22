@@ -63,11 +63,11 @@ I and my friends were keenly interested in our visitor, had him for sleepovers, 
 
 I'd felt, from my earliest days, that the world was mine, belonged, personally, to me —that I should _explore_ it. See something of it. No pioneer, me; this was sheer _privilege_.
 
-But I doubt our friend expected two of us to take him up on the offer, and so _soon_...
+But I doubt our friend expected two of us to take him up on the offer, and so _soon_...  
+
+
 <p>
-<br />
 It was the very next year when, as highschool seniors, my good friend Scott Simpson and I spent a couple of winter months —taking advantage of the Christmas break and the blessing of our teachers— in that summer-like land.  
-Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to <i>that larger world I had so coveted.</i>
 <br />
 <br />
 <a href="https://faithfulcrum.com/" target="_blank">
@@ -75,10 +75,11 @@ Traveling, singing and storytelling our way around the subcontinent gave me perh
        src="{{ "/pix/seasonTwoCharicatures.jpg" | relative_url }}"
        alt="faithfulcrum logo">
 </a>
-
-Scott and I remain lifelong friends and —our paths having taken very different turns— discovered in recent years how much we still share much in common.
- <br />
+Traveling, singing and storytelling our way around the subcontinent gave me perhaps my first sense that these practices, honed in our homey church life, could take me to <i>that larger world I had so coveted.</i>
 <br />
+<br />
+Scott and I remain lifelong friends and —our paths having taken very different trajectories— we've discovered in recent years how much we still share much in common.
+ <br />
 In that open spirit, we co-create a biweekly podcast, <i>FaithFulcrum</i>, covering topics in creativity, spirituality and technology, in more or less that order.
 </p>
 
