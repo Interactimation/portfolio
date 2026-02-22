@@ -28,18 +28,18 @@ layout: default
 
 ###### [home]({{ "/" | relative_url }})
 
-## **Writing and Making Meet in Performance**, my oldest practice
+## **Performance: My Oldest Practice**, where writing and making meet
 
-Raised among <a href="https://www.loc.gov/collections/songs-of-america/articles-and-essays/musical-styles/ritual-and-worship/shape-note-singing/" target="_blank"><i>shape note singers</i></a>, in a fundamentalist and very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading the _a cappella_ singing (in four part harmony) for which our sect is justly famous...  
+Raised among <a href="https://www.loc.gov/collections/songs-of-america/articles-and-essays/musical-styles/ritual-and-worship/shape-note-singing/" target="_blank"><i>shape note singers</i></a>, in a fundamentalist, very-much _fellow_-ship, I, from an early age, performed _live, on stage_ —whether reading the scripture for the Sunday Sermon or leading the _a cappella_ singing (in four part harmony) for which that sect is justly famous...  
 Or, a favorite, as part of the _puppet ministry_ of Vacation Bible School, I have been, all unseen, before audiences since I was in short pants.   
 
 As a puppeteer (naming my alter ego _Melvin J. Pickles_) I learned to improvise. It was in this persona that I devised, on the spot, my first joke...
 
-While torturing the live MC with my _bants_, the kid —just a couple years older than me— complained comically: 
+While torturing the live MC with my outrageous _bants_, the kid —just a couple years older than me— complained comically: 
 _Mr. Pickles, you're gonna give me a_ complex!  
 In the moment, I replied: 
 
-> Aw, you're too simple to have a complex! 
+> Aw, you're too <i style="font-style: normal;">simple</i> to have a <i style="font-style: normal;">complex</i>! 
 
 And, ok, now that I write it out, I feel like I copped it from an episode of _The Jeffersons_... But what a moment! It _sold_ me. I'd _paralyzed_ the guy!
 
@@ -83,7 +83,7 @@ Scott and I remained lifelong friends and —our spiritual and religious paths h
 
 Before I get to the [_Great Band of my Life_](#howlooseanation), I should mention a handful of others, from a dozen examples.  
 
-> NOTE: Sound Cloud appears to expect files compressed within an inch of their lives and normalized _right up to the red_. As I prefer what I like to call _Dymanic Range_ I urge the listener to crank the vol on the following embeds!
+> NOTE: Sound Cloud appears to expect files compressed within an inch of their lives and normalized _right up to the red_. As I prefer what I like to call _Dymanic Range_, I urge the listener to crank the vol on the following embeds!
 
 ### **Mister Tickle**
 <div class="sc-wrap">
