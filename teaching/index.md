@@ -70,9 +70,9 @@ When the sirens wend off, all over the city (the whole of the lower peninsula, g
 Barring the accidents to which all flesh is heir, I imagine he's there still, sweeping away.
 
 <p>
-<a href="{{ "/pix/playPoster.png" | relative_url }}" target="_blank">
+<a href="{{ "/pix/playsPoster.png" | relative_url }}" target="_blank">
   <img class="thumb-left"
-       src="{{ "/pix/playPoster_thumb.png" | relative_url }}"
+       src="{{ "/pix/playsPoster_thumb.png" | relative_url }}"
        alt="poster for playwriting course">
 </a>
 </p>
