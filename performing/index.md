@@ -140,7 +140,8 @@ When he learned I'd been teaching myself to play the banjo, he recruited me, _no
 
 > Which I did.
 
-I took up all marketing design for the group and the BB&B festival: T-Shirts, mugs and —of course— posters.
+I also took up all marketing design for the group and the BB&B festival: T-Shirts, mugs —I created one with the XXX of moonshine which read:  
+_My Other Mug is a Jug_ And, of course, there were all the posters.
 
 <p>
 <a href="{{ "/pix/BBB2019Poster.png" | relative_url }}" target="_blank">
