@@ -5,6 +5,7 @@ layout: default
 
 # **Baldridge—Making:**
 
+
 ------
 
 <div class="card-layout">
@@ -22,7 +23,7 @@ layout: default
 </a>
 
   <a href="{{ "/teaching/" | relative_url }}">
-  <img src="{{ "/pix/teachCard.png" | relative_url }}" alt="teaching">
+  <img src="{{ "/pix/teachCard.jpg" | relative_url }}" alt="teaching">
 </a>
 </div>
 
