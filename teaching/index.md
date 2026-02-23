@@ -77,8 +77,9 @@ Barring the accidents to which all flesh is heir, I imagine he's there still, sw
 </a>
 </p>
 
-In Korea, as in Mexico, I taught a grab-bag of courses. Along with screenplay and play writing, I taught interactive narrative, media and media history courses, a little coding and lots of, what I call, _Photoshop/Illustrator_ —to which I gratuitously throw in some After Effects, just for the animation.  
-I've taught this introductory digital design course essentially every semester of my career —in three countries, on two continents.
+In Korea, as in Mexico, I taught a grab-bag of courses. Along with screenplay and play writing, I taught interactive narrative, media and media history courses, a little coding and lots of, what I call, _Photoshop/Illustrator_ —to which I gratuitously throw in some After Effects, just for the animation.
+
+I've taught this introductory digital design course essentially every semester of my career —in three countries, on two continents. I could do it in my sleep —exactly the point at which I'd like to leave it to others. Bored teachers are boring teachers.
 
 ## **SUNY Polytechnic** and Game Design  
 
