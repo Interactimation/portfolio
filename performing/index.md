@@ -139,6 +139,14 @@ I met Rope Smokin Roy —as a matter of course— in a little bar in Little Fall
 When he learned I'd been teaching myself to play the banjo, he recruited me, _note unheard_, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank">play in his band</a> (that's me, on the trunk) in his upcoming, inaugural, _Bluegrass, Bikes and BBQ_ festival.  
 Which I did.  
 
+<p>
+<a href="{{ "/pix/BBB2019Poster.png" | relative_url }}" target="_blank">
+  <img class="thumb-left"
+       src="{{ "/pix/BBB2019Poster_thumb.png" | relative_url }}"
+       alt="poster bluegrass, bikes and BBQ">
+</a>
+</p>
+
 Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
 What you'll hear at the link is my attempt to spin off a studio version of the same sort, during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win State Champion in Marching Band, Texas Association of Private and Parochial Schools (TAPPS), 1983.  
 

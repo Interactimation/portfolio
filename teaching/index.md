@@ -50,7 +50,7 @@ I thought, beyond any sense I had of my own poor ability, I might be onto someth
 
 Former Vice President Al Gore had just, rather absurdly, dubbed _El Tec_ with that monicker (it's much more that country's SUNY system) so I gladly accepted an offer to spend 2013 teaching interactive multimedia in Guadalajara, and the subsequent offer to do the same at the flagship campus in Monterrey. It was there I created what may well have been the first college course in VR specifically targeting <a href="https://time.com/3901393/google-cardboard-iphone/" target="_blank"><i>Google Cardboard</i></a>, released in 2014.  
 
-> It was here I was first "professor" —_de Ambinetes Virtuales_. It felt good.
+> It was here I was first a "professor" —_de Ambinetes Virtuales_. It felt good.
 
 I found myself very comfortable as an _expat_, having always considered myself a citizen of the world. Friends I made, relationships established with persons from around the globe, convinced me that the time had come to see more of the old place. My passport became my... _passport_ —to a wider, more interesting life.
 
