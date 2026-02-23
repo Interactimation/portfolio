@@ -138,7 +138,9 @@ I should note that the story Skye tells to introduce the encore, _No Such Place 
 I met Rope Smokin Roy —as a matter of course— in a little bar in Little Falls, NY. We hit it off over a shared love of Bluegrass and _mountain music_.  
 When he learned I'd been teaching myself to play the banjo, he recruited me, _note unheard_, to <a href="http://archive.today/2026.02.21-164359/https://www.uticaod.com/story/entertainment/music/2018/09/27/music-column-how-rope-smokin/9768770007/" target="_blank">play in his band</a> (that's me, on the trunk) in his upcoming, inaugural, _Bluegrass, Bikes and BBQ_ festival.  
 
-> Which I did.  
+> Which I did.
+
+I took up all marketing design for the group and the BB&B festival: T-Shirts, mugs and —of course— posters.
 
 <p>
 <a href="{{ "/pix/BBB2019Poster.png" | relative_url }}" target="_blank">
