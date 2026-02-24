@@ -144,13 +144,11 @@ I also took up all marketing design for the group and the BB&B festival: T-Shirt
 _My Other Mug is a Jug!_  
 And, of course, there were all the posters.
 
-<p>
 <a href="{{ "/pix/BBB2019Poster.png" | relative_url }}" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/BBB2019Poster_thumb.png" | relative_url }}"
        alt="poster bluegrass, bikes and BBQ">
 </a>
-</p>
 
 Me and the Orphans toured biker events, county fairs, backyard parties and bars in the region right up until the world closed down in 2020.  
 What you'll hear at the link is my attempt to spin off a studio version of the same sort, during lockdown. I called myself _Col. Roadhard and the Putaway Wet_ and took advantage of tuba chops earned when I helped Lubbock Christian Highschool win State Champion in Marching Band, Texas Association of Private and Parochial Schools (TAPPS), 1983.  
@@ -163,13 +161,26 @@ I had learned to stitch so loosely during my time as creative director for:
 
 ### **HOWLOOSEANATION**, the band that made me what I am
 
-I spent 15 years as Artistic Director with this ever-changing _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska, prominent eye surgeon, painter and performer and lifelong patron of the arts.  
+<a href="{{ "/pix/FredMusicircus.jpg" | relative_url }}" target="_blank">
+  <img class="thumb-left"
+       src="{{ "/pix/FredMusicircus_thumb.jpg" | relative_url }}"
+       alt="dr. fred mausolf at toy piano">
+</a>
+
+I spent 15 years as Artistic Director with this ever-changing _performance heptet_ —the only constant's being myself and co-founder Dr. Fred Mausolf of Lincoln, Nebraska (pictured).  
+Prominent eye surgeon, painter performer and lifelong patron of the arts. Personal mentor to me.  
 Over the years we welcomed more than 20 performers into our ranks, all made lifetime members.  
 
 When we wanted a laser show, I bought 100 keychain laser pointers and released them to the audience. We used black light effects, puppets, costumes, video projection mapping.  
 Employed dancers, collaborated with visual artists, comedians, cantors.  
 
 I used to say if I went in to our weekly rehearsal with the notion that I'd never play another note, but just wrap myself in plastic sheeting and writhe around onstage, every member of the group would have thought for a moment and responded: _Sounds cool._
+
+<a href="{{ "/pix/fredWard_crp.jpg" | relative_url }}" target="_blank">
+  <img class="thumb-left"
+       src="{{ "/pix/fredWard_thumb.jpg" | relative_url }}"
+       alt="flaming cupcake, ward lewis">
+</a>
 
 We composed and performed for television (NETV's documentary <del>[_Torn Notebook_](////)</del>, on the life and work of Claes Oldenburg), devised theatrical events with participation by The Flaming Cupcakes (Lincoln, Nebraska's notorious drag ensemble), Presented, live, a new score for the classic of silent cinema _Der Golem_ (1920) and wrote and performed an Ecumenical Requiem. 
 
