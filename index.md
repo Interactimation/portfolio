@@ -26,16 +26,9 @@ layout: default
 </a>
 </div>
 
-## Head 2
+## **Head 2** with bold and font change
 More text
 
 ### Head 3
-More
-#### Head 4
-Still more
-##### Head 5
-A little more
-###### Head 6
-Some text with [a link to the making](making/) page.
 
-Here I embed <a href="https://www.w3schools.com/" target="_blank" rel="noopener">another link</a> to someplace else.
+
