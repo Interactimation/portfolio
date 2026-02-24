@@ -149,7 +149,8 @@ It's almost impossible for us, this side of that divide, to imagine how much —
 No: the future of the arts lies with those who _collaborate_ with tech. AI is not "just another tool" as some artists want to say. It's not about shallow prompts and the shallower products of them.  
 But there are artists I know, and from whom I'm learning, who cultivate their _own_ GPTs, culture them with thousands of pages of content: Images, words —with sound and video on the cutting edge— and collaborate with them at a fundamental level.
 
-A musician I'm working with uses voice-to-text to make transcriptions of _all his sessions with his shrink_. These go, raw, into the song-writing AI he's trained up also on his journals, poetry, his entire discography. He's constrained his AI in a manner unavailable to those using out-of-the box, public versions. It knows, for instance, not to offer the kind of unreflective approbation for which chatbots are well known. His "tools" _challenge_ him.  
+A musician I'm working with uses voice-to-text to make transcriptions of _all his sessions with his shrink_. These go, raw, into the song-writing AI he's trained up also on his journals, poetry, his entire discography. He's constrained his AI in a manner unavailable to those using out-of-the box, public versions. It knows, for instance, not to offer the kind of unreflective approbation for which all these chatbots are well known.  
+His "tools" _challenge_ him.  
 With his multimedia approach, he thus employs a number of different AI and AI adjacent tools in his process but I can see them merging, not long from now. 
 
 Six years ago, I was searching for a home, a place, a program in which I could settle. Since the end of 2022, when ChatGPT first burst upon the scene, I've grown increasingly aware that no such place or program exists, if it's not surfing the edge of the tsunami that is AI.
