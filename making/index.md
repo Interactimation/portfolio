@@ -29,4 +29,10 @@ layout: default
 
 ###### [home]({{ "/" | relative_url }})
 
-## Head 2
+## **Head 2** and more to come
+
+<br />
+
+<hr />
+
+###### [home]({{ "/" | relative_url }})
