@@ -51,7 +51,7 @@ I thought then that, beyond any sense I'd had of my own poor ability, _I might b
 
 ## **Tecnológico de Monterrey**, the _Yale of Mexico_
 
-Former Vice President Al Gore had just, rather absurdly, dubbed _El Tec_ "The Yale of Mexico" (it's much more that country's SUNY system, a loose confederation of quite different schools) so I gladly accepted an offer to spend 2013 teaching interactive multimedia in Guadalajara, and the subsequent offer to do the same at the flagship campus in Monterrey. There I created what may well have been the first college course in VR specifically targeting <a href="https://time.com/3901393/google-cardboard-iphone/" target="_blank"><i>Google Cardboard</i></a>, released in 2014.  
+Former Vice President Al Gore had just, rather absurdly, dubbed _El Tec_ "The Yale of Mexico" (it's much more that country's SUNY system, a loose confederation of quite different schools) so I gladly accepted an offer to spend 2013 teaching interactive multimedia in Guadalajara, and the subsequent offer to do the same at the flagship campus in Monterrey. There I created what may well have been the first college course in VR specifically targeting <a href="https://time.com/3901393/google-cardboard-iphone/" target="_blank">Google Cardboard</a>, released in 2014.  
 
 > And it was there I was first a "professor": _de Ambinetes Virtuales_. It felt good.
 
@@ -79,13 +79,11 @@ Barring the accidents to which all flesh is heir, I imagine he's there still, sw
 
 And I guess it was at that time of my life I learned not to rise to the rhetoric of political hucksters. The world is always ending, we're always doomed. Keep sweeping.
 
-<p>
 <a href="{{ "/pix/playsPoster.png" | relative_url }}" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/playsPoster_thumb.png" | relative_url }}"
        alt="poster for playwriting course">
 </a>
-</p>
 
 In Korea, as in Mexico, I landed a grab-bag of courses. Anything within my range, or that the job demanded. Along with screenplay and play writing, I taught interactive narrative, media and media history courses. A little coding and lots of, what I call, _Photoshop/Illustrator_ —into which I gratuitously throw some After Effects, just for the animation.
 
@@ -96,9 +94,15 @@ I've taught this introductory digital design course essentially every semester o
 Back in the states, all this gelled into Game Design. I'd been circling it for years so, no surprise. A two-year contract, I knew from the first I'd never apply for renewal.  
 I was looking for a home, not a _job_, and one for which I had to periodically reapply. I figured this meant something like _tenure track_.  
 
+<a href="{{ "/pix/littleFalls.jpg" | relative_url }}" target="_blank">
+  <img class="thumb-left"
+       src="{{ "/pix/littleFalls_thumb.jpg" | relative_url }}"
+       alt="singing on stage in little falls">
+</a>
+
 > It was kind of unfortunate, then, that I fell so in love with Little Falls, New York —a city of supposedly 5,000 souls, where I lived across from the cemetery. I still count myself a _Little Fallan_.
 
-I might have stayed there forever. The house I rented was for sale the entire time, and easily within my budget! Except for the recurring hat-in-hand, professionally (and an enormous shifting in the field, still to come) I' might be there yet, contentedly commuting the 45 minutes to Utica in that beat up old van, all weathers.
+I might have stayed there forever. The house I rented was for sale the entire time, and easily within my budget! Except for the recurring hat-in-hand, professionally (and an enormous shifting in the field, still to come) I might be there yet, contentedly commuting the 45 minutes to Utica in that beat up old van, all weathers.
 
 ## **Future so Bright** I got to wear shades  
 
@@ -117,11 +121,11 @@ I rented a row-home, sight-unseen (crossing the state line would have required m
 Then the world opened up and I dived joyously into the life and work of a colleague in a collegial liberal arts setting.  
 I chaired the committee on Information Technology, served on the Interfaith Council. I sponsored the Film Club and, every Halloween, brought in filmmakers and critics to discuss social issues like race and gender, while showing related horror movies.
 
-Covid and other issues rebounded on Albright, resulting in a new President and lots of layoffs, quite the purge. When a student asked my privately if I was "safe", I knew what he meant:
+Covid and other issues rebounded on Albright, a 170-year-old-institution, resulting in a new President and lots of layoffs, quite the purge. When a student asked my privately if I was "safe", I knew what he meant:
 
 > "We're the fastest growing program," I told him, "and I give great value!"
 
-Today, Albright's future appears as luminous as its name implies. My program is expanding: I'm in the middle of drawing up what our new hire should look like. I've seen a full cohort of students through, from admission to graduation —an experience entirely new to me.  
+Today, <a href="https://news.albright.edu/featured/albright-earns-high-marks-from-u-s-news-world-report/" target="_blank">Albright's future appears as luminous</a> as its name implies. My program is expanding: I'm in the middle of drawing up what our new hire should look like. I've seen a full cohort of students through, from admission to graduation —an experience entirely new to me.  
 Watching young minds mature, playing a part in that maturation —it's a new world for one who moved around so much.
 
 > And this week I've been promoted: You're talking to albright's latest (possibly last) tenured Associate Professor!
