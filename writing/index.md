@@ -138,7 +138,7 @@ While I'd fancied myself a _magic realist_ when I was stapling together those 19
 I've sold to _Asimov's_, _Analog_, _The Fabulist_ and bunches of others —earning enough in sales to qualify for and finally join The Science Fiction and Fantasy Writers Association, better known by its ancient monicker, the _Science Fiction Writers of America_ or the SFWA.
 
 Rather than tell you about it, I'd have you visit  <a href="https://www.donmarkbaldridge.com/" target="_blank"><i>my brutalist, hand-coded writer's site.</i></a> 
-There, most of the cover art images link to the online stories —exceptions being print-only titles. As the embargoes lift on republication, I expect to be linking to some sort of document. 
+There, most of the cover art images link to the online stories —exceptions being print-only titles. As the embargoes lift on republication, I expect to be linking to some sort of document.  
 I just don't want it to look like "ANSI A" paper in double-spaced Times New Roman!
 
 ## **Screenplay as Playform —** Playcrazy after all these years 
