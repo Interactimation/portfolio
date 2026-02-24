@@ -148,11 +148,11 @@ As an animator, I'm a puppeteer, and as a puppeteer, an actor, improvisor, _writ
 
 So this is new, and actually _must_ —due to the strict exigencies of the screenplay format— appear in an 8.5/11" white slab. It's meant to commemorate (and exploit) a property that has never _not_ made money:  
 
-> _Popeye_, that spinach-snarfing sailorman, made <a href="https://blog.archive.org/2025/01/16/public-domain-spotlight-popeye/" target="_blank"><i>his glorious entrance into the public domain</i></a>  in 2025  
+> _Popeye_, that spinach-snarfing sailorman, made <a href="https://blog.archive.org/2025/01/16/public-domain-spotlight-popeye/" target="_blank">his glorious entrance into the public domain</a> in 2025  
 
 I got to wondering if there might be something in OLD Popeye —and then I remembered: we already _gots_ one!
   
-Folks, I give you: [_Poop Deck Pappy!_](SailormanEp001.pdf)
+Folks, I give you: <a href="https://interactimation.github.io/portfolio/writing/SailormanEp001.pdf" target="_blank">_Poop Deck Pappy!_</a>
 
 <br />
 
