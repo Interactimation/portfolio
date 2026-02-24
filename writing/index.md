@@ -56,7 +56,7 @@ It's amazing any of us lived. Need I say: it's a bit of a blur?
        alt="long count poster">
 </a>
 
-For more than fifteen years with my <del>[performance "heptet" HOWLOOSEANATION](////)</del>, I served as _Artistic Director_.  
+For more than fifteen years with my [performance "heptet" HOWLOOSEANATION]({{ "/performing/index.html#howlooseanation" | relative_url }}), I served as _Artistic Director_.  
 
 I wrote press releases, composed songs, devised scenarios, penned the libretto for our operetta, <i>The Long Count</i> —this was the show that premiered at the Montreal Fringe in 2007. I'd been inspired by the (then) approaching end of the Mayan Calendar.  
 
