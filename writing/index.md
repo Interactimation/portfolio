@@ -50,24 +50,23 @@ It's amazing any of us lived. Need I say: it's a bit of a blur?
 
 ## **Proctor of Performance -OR-** A band is like a marriage
 
-For more than fifteen years with my <del>[performance "heptet" HOWLOOSEANATION](////)</del>, I served as _Artistic Director_.  
+ 
 <p>
 <a href="{{ "/pix/LongCountPressArt.jpg" | relative_url }}" target="_blank">
   <img class="thumb-left"
        src="{{ "/pix/LongCountPressArt_thumb.jpg" | relative_url }}"
        alt="long count poster">
 </a>
+</p>
+For more than fifteen years with my <del>[performance "heptet" HOWLOOSEANATION](////)</del>, I served as _Artistic Director_.  
 
 I wrote press releases, composed songs, devised scenarios, penned the libretto for our operetta, <i>The Long Count</i> —this was the show that premiered at the Montreal Fringe in 2007.  
 I'd been inspired by the (then) approaching end of the Mayan Calendar.  
 My sci-fi premise:
- 
+
 > _Scientists, detecting the unraveling of time itself, desperately strive to reverse its flow..._  
 
 All of which is now, of course, _clearly occurring_!
-</p> 
-
-<br />
 
 ## **Journeyman Journalist —** my _decade_ at the DN 
 

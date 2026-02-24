@@ -87,7 +87,7 @@ In that open spirit, we co-create a biweekly podcast, <i>FaithFulcrum</i>, cover
 
 Before I get to the [_Great Band of my Life_](#howlooseanation), I should mention a handful of others, from a dozen examples.  
 
-> NOTE: Sound Cloud appears to expect files compressed within an inch of their lives and normalized _right up to the red_. As I prefer what I like to call _Dymanic Range_, I urge the listener to crank the vol on the following embeds!
+> NOTE: Sound Cloud appears to expect files compressed within an inch of their lives and normalized _right up to the red_. As I prefer what I like to call <i style="font-style: normal;">Dymanic Range</i>, I urge the listener to raise the vol on the following embeds!
 
 ### **Mister Tickle**
 
