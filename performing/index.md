@@ -182,15 +182,23 @@ I used to say if I went in to our weekly rehearsal with the notion that I'd neve
        alt="flaming cupcake, ward lewis">
 </a>
 
-We composed and performed for television (NETV's documentary <del>[_Torn Notebook_](////)</del>, on the life and work of Claes Oldenburg), devised theatrical events with participation by The Flaming Cupcakes (Lincoln, Nebraska's notorious drag ensemble), Presented, live, a new score for the classic of silent cinema _Der Golem_ (1920) and wrote and performed an Ecumenical Requiem. 
+We composed and performed for television (NETV's documentary <del>[_Torn Notebook_](////)</del>, on the life and work of Claes Oldenburg), devised theatrical events with participation by The Flaming Cupcakes (Lincoln, Nebraska's notorious drag ensemble), Presented, live, a new score for the classic of silent cinema _Der Golem_ (1920) and wrote and performed an Ecumenical Requiem.
 
 Our final show, _The Long Count_ premiered at the Montreal Fringe in 2007, after I'd graduated from The School of the Art Institute of Chicago (with _Leadership_ Award) and I've no doubt that my work with this fertile and liberating ensemble was an important part of my accepted in the program in the first place —entering in _Performance Art_ before switching to _Art and Tech_, working in _VR_.  
 Well, it must have been partly HOWLOOSEANATION and partly the theatrical work that began to spin out from that.  
 
 ## **From The Stage**, music for live theatre  
 
-I and Skye (Susane, in those days) Evans, opened the first theatre in Wyuka Cemetery and I performed in what would evolve into <a href="https://www.flatwatershakespeare.org/" target="_blank">Flatwater Shakespeare Company</a>.  
+<a href="{{ "/pix/asYouLikeIt.jpg" | relative_url }}" target="_blank">
+  <img class="thumb-left"
+       src="{{ "/pix/asYouLikeIt_thumb.jpg" | relative_url }}"
+       alt="flaming cupcake, ward lewis">
+</a>
+
+I and Skye (Susanne, in those days) Evans, opened the first theatre in Wyuka Cemetery and I performed in what would evolve into <a href="https://www.flatwatershakespeare.org/" target="_blank">Flatwater Shakespeare Company</a>.  
 Under the direction of <a href="https://www.flatwatershakespeare.org/" target="_blank">Bob Hall</a> I produced all the music for _Twelfth Night_ and delivered it from stage and even rooftop, in character as Feste the Fool, at the venue now known as <a href="https://www.wyuka.com/wyuka-stables/" target="_blank">Wyuka Stables</a>.  
+
+I played Amiens (and Hymen) in _As You Like It_, as a kind of "green man" of the forrest. I wrote all the songs for _a cappella_, voices, with the harmonies I'd learned as a youth.
 
 Thus began a dense four year period of composing and performing music for theatre, and almost always _from the stage_.
 
