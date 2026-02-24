@@ -106,7 +106,7 @@ Before I get to the [_Great Band of my Life_](#howlooseanation), I should mentio
 </div>
 
 In South Korea I fronted and wrote for _Mister Tickle_, a _jazzpunk_ trio of professors from England, Ireland and the US.  
-We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron eating and entirely _unkillable_ monster.  
+We produced songs and performances appealing to the international _avant-garde_ set, in and around Seoul, notably congregating in a performance venue where I'd also perform solo —place known as <a href="https://www.koreatimes.co.kr/southkorea/globalcommunity/20230221/bulgasari-celebrates-20-years-of-experimental-music-in-seoul" target="_blank"><i>Bulgasari</i></a>— which, in Korean folklore, appears to be a kind of iron-eating, entirely _unkillable_, monster.  
 We were a rough, hard drinking bunch. It took me a full year to recover!
 
 ### **Alice in Oz**
@@ -198,16 +198,16 @@ Well, it must have been partly HOWLOOSEANATION and partly the theatrical work th
 I and Skye (Susanne, in those days) Evans, opened the first theatre in Wyuka Cemetery and I performed in what would evolve into <a href="https://www.flatwatershakespeare.org/" target="_blank">Flatwater Shakespeare Company</a>.  
 Under the direction of <a href="https://www.flatwatershakespeare.org/" target="_blank">Bob Hall</a> I produced all the music for _Twelfth Night_ and delivered it from stage and even rooftop, in character as Feste the Fool, at the venue now known as <a href="https://www.wyuka.com/wyuka-stables/" target="_blank">Wyuka Stables</a>.  
 
-I played Amiens (and Hymen) in _As You Like It_, as a kind of "green man" of the forrest. I wrote all the songs for _a cappella_, voices, with the harmonies I'd learned as a youth.
+I played Amiens (and Hymen) in _As You Like It_, as a kind of "green man" of the forrest. I wrote all the songs for _a cappella_ voices, employing the harmonies I'd learned as a youth.
 
-Thus began a dense four year period of composing and performing music for theatre, and almost always _from the stage_.
+Thus began a dense, four year period of composing and performing music for theatre, and almost always _from the stage_.
 
 I did _Hamlet_, Kafka's _Metamorphosis_. 
 
 Under the direction of the late-great <a href="https://www.legacy.com/us/obituaries/journalstar/name/paul-pearson-obituary?id=55420698" target="_blank">Paul Pearson</a>, I sat out there night after night at the grand piano watching _The Little Prince_ unfold once more. That show won a state competition and launched the international circus career of <a href="https://www.instagram.com/donkyprince/?hl=en" target="_blank">Colin "Donkeyboy" Creveling</a>. 
-It was also for Paul that I first scored _Alice in Wonderland_, a show in which I spent the entire run perched atop a gazebo. 
+It was also for Paul that I first scored _Alice in Wonderland_, a show in which I spent the entire run perched atop a gazebo.
 
-<a href="https://www.instagram.com/donkyprince/?hl=en" target="_blank">This is the video</a>, produced on analog tape-to-tape, with which I applied to SAIC.  
+<a href="https://www.youtube.com/watch?v=gawx1iP7WGU" target="_blank">This is the video</a>, produced on analog tape-to-tape, with which I applied to SAIC.  
 It features HOLOOSEANATION and my theatrical work pretty heavily...
 
 <br />
