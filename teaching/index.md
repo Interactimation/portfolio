@@ -164,6 +164,14 @@ At the same time, I want an actual _place_ to call home, A city, a community whe
 
 _That's_ why this application. Why UNL and the _Johnny Carson Center for Emerging Media Arts_. I believe your program's designed to take advantage of this fundamental shift, and I _already know_ the community, the city and state, the people and values of the area.
 {% endcomment %}
+
+...
+yada yada
+...
+<br />
+<br />
+
+
 > Like this <a href="https://alkamyst04.itch.io/air-vase-ive" target="_blank"><i>charming bit of student work</i></a>, I must keep something priceless and fragile always in the air... or else, let it fall, shattering, to earth.
 
 <br />
