@@ -114,6 +114,7 @@ No, the whole setup required at least on more screen than any student had. A med
 
 > If people (parents & students both) doubt the monetary value of education, experiences like that do nothing to assure them.
 
+{% comment %}
 It was in widening my search that I found Albright. Seeking a "Computer Science" professor in a program clearly designated Game & Simulation Development I'd stumbled across a program with the unlikely 50/50 blend of coding and art.  
 I interviewed online. The then provost gratifyingly swung me an offer —dual apt. in CSC and ART— in order to manage the tenure track which I'd suggested.  
 I rented a row-home, sight-unseen (crossing the state line would have required me to "self-isolate" for two weeks, either side of the border) and moved house —only to spend my first semester still online. Might as well have stayed in Little Falls!.  
@@ -162,7 +163,7 @@ Six years ago, I was searching for a home, a place, a program in which I could s
 At the same time, I want an actual _place_ to call home, A city, a community where I can live and love and perform. Where I can know and be known.  
 
 _That's_ why this application. Why UNL and the _Johnny Carson Center for Emerging Media Arts_. I believe your program's designed to take advantage of this fundamental shift, and I _already know_ the community, the city and state, the people and values of the area.
-
+{% endcomment %}
 > Like this <a href="https://alkamyst04.itch.io/air-vase-ive" target="_blank"><i>charming bit of student work</i></a>, I must keep something priceless and fragile always in the air... or else, let it fall, shattering, to earth.
 
 <br />
